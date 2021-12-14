@@ -1,6 +1,9 @@
 # Monster Hunter App
 <p>This app is a visual product result of web scraping in a monster hunter freedom unite game webpage.</p>
 
+![mh](https://user-images.githubusercontent.com/75986085/146096718-9803459f-210a-42b0-9d21-4759f12a242c.png)
+
+
 <h2>1. Business Problem (Objectives)</h2>
   <p>Some data with information of monster hunter freedom unite game on wiki page or other websites. All information must be easily accessed by the user, you is free to select what of visual product of the data.</p>
  <ul>
