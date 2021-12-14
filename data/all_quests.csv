@@ -1,0 +1,256 @@
+,title,goal,area,time,fee,reward,notes
+0,A True Foe - The Giadrome!,Hunt the Giadrome,Snowy Mountains (Day),50mins,100z,1200z,No Info
+1,Reckless Bulldrome Hunter,Hunt the Bulldrome,Snowy Mountains (Night),50mins,100z,1500z,No Info
+2,A Pack of Blangos,Slay 15 Blangos,Snowy Mountains (Day),50mins,100z,900z,Bulldrome is present
+3,Mountain Herb Picking,Deliver 20 Mountain Herbs,Snowy Mountains (Night),50mins,100z,900z,Bulldrome is present
+4,Rarest of Rare Beasts,Hunt the Congalala,Jungle (Night),50mins,150z,1800z,No Info
+5,Hunt the Rare Forest Congas!,Slay 15 Congas,Jungle (Day),50mins,100z,900z,Velocidrome is present
+6,A Mushroom Goldrush,Deliver 20 Special Mushrooms,Jungle (Day),50mins,100z,900z,Velocidrome is present
+7,The Land Shark,Hunt the Cephadrome,Desert (Night),50mins,150z,1800z,No Info
+8,The Giant Enemy Crab,Hunt the Daimyo Hermitaur,Desert (Day),50mins,180z,2100z,No Info
+9,The Lady Gourmet,Deliver 8 Piscine Livers,Desert (Day),50mins,100z,900z,Gendrome is present
+10,The Shadow in the Mountains,Hunt the Khezu,Snowy Mountains (Night),50mins,180z,2100z,No Info
+11,The King of the Mountains,Hunt the Blangonga,Snowy Mountains (Day),50mins,200z,2400z,No Info
+12,A Swarm of Hermitaurs,Slay 10 Hermitaurs,Jungle (Day),50mins,100z,900z,Congalala is present
+13,Water Wyvern in the Desert,Hunt the Plesioth,Desert (Day),50mins,200z,2400z,No Info
+14,Gypceros: Venomous Terror,Hunt the Gypceros,Swamp (Day),50mins,180z,2100z,No Info
+15,Supreme Ruler of the Swamp,Hunt the Shogun Ceanataur,Swamp (Night),50mins,220z,2700z,No Info
+16,Slay the Great Kut-Ku!,Hunt the Yian Kut-Ku,Forest & Hills (Day),50mins,180z,2100z,No Info
+17,Hunt the Rathalos!,Hunt the Rathalos,Forest & Hills (Day),50mins,250z,3000z,"Appears after ""Shadow in the Snow"" Village Elder 3* Quest"
+18,Attack of the Rathian,Hunt the Rathian,Jungle (Day),50mins,250z,3000z,"Appears after ""Shadow in the Snow"" Village Elder 3* Urgent Quest"
+19,Gathering - Snowy Mountains,Time Over or Deliver the Paw Pass Ticket,Snowy Mountains (Day),50mins,0z,12z,No Info
+20,Gathering - Jungle Zone,Time Over or Deliver the Paw Pass Ticket,Jungle (Day),50mins,0z,12z,No Info
+21,Gathering - Desert Zone,Time Over or Deliver the Paw Pass Ticket,Desert (Day),50mins,0z,12z,No Info
+22,Giadrome Assault (Key Quest),Hunt the Giadrome,Snowy Mountains (Night),50mins,200z,2400z,Required for next Urgent
+23,The Mountain Roughrider,Hunt the Bulldrome,Snowy Mountains (Day),50mins,220z,2700z,No Info
+24,Slay the Giaprey!,Slay 20 Giapreys,Snowy Mountains (Day),50mins,150z,2100z,Giadrome is present
+25,Find the Mountain Herbs!,Deliver 20 Mountain Herbs,Snowy Mountains (Night),50mins,150z,2100z,Bulldrome is present
+26,Hunt Down the Velocidrome!,Hunt the Velocidrome,Jungle (Night),50mins,200z,2400z,No Info
+27,Blue Menace of the Jungle,Hunt the Blue Yian Kut-Ku,Jungle (Day),50mins,300z,3600z,"Clear ""Attack of the Yian Kut-Ku"" to unlock"
+28,Cunning Raiders,Slay 20 Velocipreys,Jungle (Night),50mins,150z,2100z,Velocidrome is present
+29,Attack of the Giant Bugs!,Slay 50 Vespoids,Jungle (Night),50mins,150z,2100z,No Info
+30,The Mushroom Hunt!,Deliver 20 Special Mushrooms,Jungle (Night),50mins,150z,2100z,Congalala is present
+31,Panning for Goldenfish,Deliver 3 Goldenfish,Jungle (Day),50mins,150z,2100z,Daimyo Hermitaur is present
+32,Hunt the Gendrome!,Hunt the Gendrome,Desert (Day),50mins,200z,2400z,No Info
+33,The Land Shark (Key Quest),Hunt the Cephadrome,Desert (Night),50mins,220z,2700z,Required for next Urgent
+34,The Lurking Desert Giant (Key Quest),Hunt the Daimyo Hermitaur,Desert (Day),50mins,350z,4200z,Required for next Urgent
+35,Slay the Genprey!,Slay 20 Genprey,Desert (Day),50mins,150z,2100z,Gendrome is present
+36,Liver of Legend!,Deliver 10 Piscine Livers,Desert (Day),50mins,150z,2100z,Gendrome is present
+37,Gone Fishin',Deliver 3 Goldenfish,Desert (Day),50mins,150z,2100z,Gendrome is present
+38,Attack of the Yian Kut-Ku,Hunt the Yian Kut-Ku,Swamp (Day),50mins,250z,3000z,No Info
+39,Charge... Charge... Charge! (Key Quest),Hunt the Bulldrome,Swamp (Day),50mins,220z,2700z,No Info
+40,The Mischief Maker (Key Quest),Hunt the Congalala,Swamp (Night),50mins,350z,4200z,Required for next Urgent
+41,The Ruler of the Snow,Hunt the Blangonga,Snowy Mountains (Night),50mins,500z,6000z,Unlocks LV★★★★ quests; HR2 Rank-Up
+42,Gathering-Swamp Zone,Time Over or Deliver the Paw Pass Ticket,Swamp (Day),50mins,0z,12z,No Info
+43,Gathering-Forest and Hills,Time Over or Deliver the Paw Pass Ticket,Forest & Hills (Day),50mins,0z,12z,No Info
+44,Gathering-Volcanic Zone,Time Over or Deliver the Paw Pass Ticket,Volcano (Day),50mins,0z,12z,No Info
+45,The Ruler of the Snow,Hunt the Blangonga,Snowy Mountains (Night),50mins,500z,6000z,Urgent quest for unlocking LV★★★★
+46,The Shadow in the Cave,Hunt the Khezu,Swamp (Night),50mins,450z,5400z,No Info
+47,Red Shadow in the Snow,Hunt the Red Khezu,Snowy Mountains (Day),50mins,450z,5400z,"Clear ""The Shadow in the Cave"" to unlock"
+48,Blango Slaying Tactics,Slay 20 Blangos,Snowy Mountains (Day),50mins,250z,3000z,Blangonga is present
+49,The Subterranean Glutton,Deliver 5 Khezu Whelps,Snowy Mountains (Night),50mins,250z,3000z,Giadrome is present
+50,Master of the Giant Lake,Hunt the Plesioth,Jungle (Night),50mins,450z,5400z,Required for next Urgent
+51,The Pink Fur Party,Slay 20 Congas,Jungle (Day),50mins,250z,3000z,Congalala is present
+52,The Hidden Jungle Clouds,Slay 50 Hornetaurs,Jungle (Night),50mins,250z,3000z,Daimyo Hermitaur is present
+53,The Underwater Terror,Hunt the Green Plesioth,Desert (Day),50mins,500z,6000z,"Clear ""Master of the Giant Lake"" to unlock"
+54,Evening Hermitaur Sonata,Slay 20 Hermitaurs,Desert (Night),50mins,250z,3000z,Required for next Urgent
+55,The Purple Poison Menace,Hunt the Purple Gypceros,Swamp (Night),50mins,420z,5100z,"Clear ""Chase the Poison Gypceros!"" to unlock"
+56,Pincer through the Sky,Hunt the Shogun Ceanataur,Swamp (Day),50mins,500z,6000z,Required for next Urgent
+57,Chase the Poison Gypceros!,Hunt the Gypceros,Swamp (Day),50mins,400z,4800z,No Info
+58,Trouble in the Forest,Slay 20 Bullfangos,Forest & Hills (Day),50mins,350z,4200z,Required for next Urgent
+59,Seeking the Strange Mask,Slay 10 Shakalakas,Forest & Hills (Day),50mins,250z,3000z,Blue Kut-Ku is present
+60,The Ioprey Leader,Hunt the Iodrome,Volcano (Night),50mins,350z,4200z,Required for next Urgent
+61,Commander of the Flames,Hunt the Shogun Ceanataur,Volcano (Night),50mins,500z,6000z,No Info
+62,Basarios: Unseen Peril,Hunt the Basarios,Volcano (Night),50mins,220z,2700z,No Info
+63,A Band of Ceanataurs,Slay 20 Ceanataurs,Volcano (Day),50mins,250z,3000z,Iodrome is present
+64,Great Ore Discovery,Deliver 20 Coal,Volcano (Day),50mins,250z,3000z,Shogun Ceanataur is present
+65,A Giant Dragon Invades!,Defend the Fortress from Lao-Shan Lung,Fortress,35mins,750z,9000z,"Clear all LV★★★ and LV★★★★ hunting quests except ""The Meeting of Daimyo"" to unlock"
+66,The Meeting of Daimyo,Hunt multiple Daimyo Hermitaurs,Jungle (Day),50mins,250z,3000z,"MHFU addition; Fail Condition: Hunt less than 2 Daimyo Hermitaurs before Time Up, Reward Zero"
+67,Go Fish Goldenfish!,Deliver 8 Goldenfish,Desert (Day),50mins,250z,3000z,"MHFU addition, Plesioth is present"
+68,Absolute Power,Hunt the Tigrex,Snowy Mountains (Day),50mins,550z,6600z,Unlocks LV★★★★★ quests; HR3 Rank-Up
+69,Absolute Power,Hunt the Tigrex,Snowy Mountains (Day),50mins,550z,6600z,Urgent quest for unlocking LV★★★★★
+70,The Tigrex's Roar,Hunt the Tigrex,Desert (Day),50mins,550z,6600z,No Info
+71,The Runaway Diablos,Hunt the Diablos,Desert (Day),50mins,600z,6000z,Required for next Urgent
+72,The Fierce Black Horn,Hunt the Black Diablos,Desert (Night),50mins,550z,6600z,"Clear ""The Runaway Diablos"" to unlock"
+73,Valor in the Swamp Zone,Hunt the Gravios,Swamp (Day),50mins,500z,6000z,Required for next Urgent
+74,Terror of the Gravios,Hunt the Black Gravios,Volcano (Night),50mins,550z,6600z,"Clear ""Valor in the Swamp Zone"" to unlock"
+75,The King's Domain,Hunt the Rathalos,Forest & Hills (Day),50mins,500z,6000z,Required for next Urgent
+76,Attack of the Rathalos,Hunt the Azure Rathalos,Forest & Hills (Day),50mins,550z,6600z,"Clear ""The King's Domain"" to unlock"
+77,The Queen's Descent,Hunt the Rathian,Jungle (Day),50mins,450z,5400z,Required for next Urgent
+78,The Cherry Blossom Rathian,Hunt the Pink Rathian,Jungle (Night),50mins,500z,6000z,"Clear ""The Queen's Descent"" to unlock"
+79,The Legendary Kirin,Slay the Kirin,Snowy Mountains (Night),50mins,550z,6600z,Quest appears randomly
+80,The Red and Green Wyverns,Hunt the Rathalos and Rathian,Forest & Hills (Day),50mins,700z,8100z,No Info
+81,Attack of the Wind Dragon,Slay the Rusted Kushala Daora,Town,50mins,700z,8100z,"Appears randomly after clearing ""A Giant Dragon Invades!"" (LV★★★★ quest)"
+82,The Sun with Fangs,Slay the Teostra,Desert (Day),50mins,700z,8100z,"Appears randomly after clearing ""A Giant Dragon Invades!"" (LV★★★★ quest)"
+83,Emperor of Flames,Slay the Teostra,Volcano (Night),50mins,700z,8100z,"Appears randomly after clearing ""A Giant Dragon Invades!"" (LV★★★★ quest)"
+84,The Elder Dragon of Mist,Slay the Chameleos,Forest & Hills (Day),50mins,700z,8100z,"Appears randomly after clearing ""A Giant Dragon Invades!"" (LV★★★★ quest)"
+85,Towards the Silence,Slay the Chameleos,Swamp (Day),50mins,700z,8100z,"Appears randomly after clearing ""A Giant Dragon Invades!"" (LV★★★★ quest)"
+86,Two Little Shadows,Hunt 2 Khezus,Swamp (Night),50mins,600z,7200z,"MHFU addition, both Khezus are very small."
+87,A Horde of Congalalas,Hunt multiple Congalalas,Swamp (Day),50mins,400z,4800z,"MHFU addition; Fail Condition: Hunt less than 2 Congalalas before Time Up, Reward Zero"
+88,The Approaching Gaoren,Slay or repel the Shen Gaoren,Fortress,35mins,1000z,12000z,Unlocks LV★★★★★★ (High Rank) quests; HR4 Rank-Up
+89,Gathering - Snowy Mountains,Time Over or Deliver the Paw Pass Ticket,Snowy Mountains (Night),50mins,0z,12z,Giadrome is present
+90,Gathering - Jungle Zone,Time Over or Deliver the Paw Pass Ticket,Jungle (Night),50mins,0z,12z,Yian Kut-Ku is present
+91,Gathering - Desert Zone,Time Over or Deliver the Paw Pass Ticket,Desert (Night),50mins,0z,12z,Daimyo Hermitaur is present
+92,A True Foe - The Giadrome!,Hunt the Giadrome,Snowy Mountains (Night),50mins,350z,4200z,No Info
+93,Reckless Bulldrome Hunter,Hunt the Bulldrome,Snowy Mountains (Night),50mins,400z,4800z,No Info
+94,Flanked by Velocidrome,Hunt 2 Velocidromes,Jungle (Day),50mins,420z,5100z,No Info
+95,Aim for the Jungle Crab,Hunt the Daimyo Hermitaur,Jungle (Night),50mins,420z,5100z,No Info
+96,The Poison Fanged Duo,Hunt 2 Gendromes,Desert (Day),50mins,420z,5100z,Required for next Urgent
+97,Pursuit of the Sand Wyvern,Hunt the Cephadrome,Desert (Day),50mins,400z,4800z,Gendrome is also present
+98,Ultimate Crab Dinner,Hunt 2 Daimyo Hermitaurs,Desert (Day),50mins,620z,8100z,Required for next Urgent
+99,Trapped by Yian Kut-Ku,Hunt the Yian Kut-Ku and Blue Yian Kut-Ku,Swamp (Night),50mins,600z,7200z,Required for next Urgent
+100,Conga Counterattack,Hunt the Congalala,Swamp (Night),50mins,420z,5100z,Required for next Urgent
+101,The Beating of Royal Wings,Hunt the Queen Vespoid,Jungle (Day),50mins,380z,4500z,MHFU addition
+102,Lao-Shan Lung Draws Near!,Defend the Fortress from Ashen Lao-Shan Lung,Fortress,35mins,2000z,24000z,Unlocks LV★★★★★★★ quests; HR5 Rank-Up
+103,Gathering - Swamp Zone,Time Over or Deliver the Paw Pass Ticket,Swamp (Night),50mins,0z,12z,Gypceros is present
+104,Gathering - Forest and Hills,Time Over or Deliver the Paw Pass Ticket,Forest & Hills (Day),50mins,0z,12z,Blue Yian Kut-Ku is present
+105,Gathering - Volcanic Zone,Time Over or Deliver the Paw Pass Ticket,Volcano (Night),50mins,0z,12z,Basarios is present
+106,Two Roars In the Snow,Hunt 2 Blangongas,Snowy Mountains (Night),50mins,1000z,12000z,Required for next Urgent
+107,King of the Mountains,Hunt the Blangonga,Snowy Mountains (Day),50mins,620z,7500z,Bulldrome is also present
+108,The Electrified Wyvern,Hunt the Khezu,Snowy Mountains (Night),50mins,520z,6900z,Bulldrome is also present
+109,Red Shadow in the Swampland,Hunt the Red Khezu,Swamp (Day),50mins,620z,7500z,Required for next Urgent
+110,The Poison Gas,Hunt the Gypceros and Purple Gypceros,Jungle (Night),50mins,750z,9000z,No Info
+111,Dual Plesioth,Hunt the Plesioth and Green Plesioth,Jungle (Day),50mins,870z,10500z,No Info
+112,Attack of the Rathian,Hunt the Rathian,Jungle (Night),50mins,620z,7500z,Velocidrome is also present
+113,Water Wyvern in the Desert,Hunt the Plesioth,Desert (Day),50mins,570z,6900z,No Info
+114,The Underwater Terror,Hunt the Green Plesioth,Desert (Day),50mins,620z,7500z,Required for next Urgent
+115,An Evening Soaked in Poison,Hunt the Iodrome,Swamp (Night),50mins,500z,6000z,Bulldrome is also present
+116,Supreme Ruler of the Swamp,Hunt the Shogun Ceanataur,Swamp (Day),50mins,620z,7500z,Bulldrome is also present
+117,The Purple Poison Menace,Hunt the Purple Gypceros,Swamp (Day),50mins,550z,6600z,Bulldrome is also present
+118,Eliminate the Rathalos!,Hunt the Rathalos,Forest & Hills (Day),50mins,670z,8100z,Required for next Urgent
+119,The Shogun's Encampment,Hunt 2 Shogun Ceanataurs,Volcano (Day),50mins,1000z,12000z,No Info
+120,Basarios: Unseen Peril,Hunt the Basarios,Volcano (Day),50mins,570z,6900z,Required for next Urgent
+121,Envoy to Disaster,Slay 20 Remobras,Volcano (Night),50mins,500z,6000z,No Info
+122,Lao-Shan Lung Draws Near!,Defend the Fortress from Ashen Lao-Shan Lung,Fortress,35mins,2000z,24000z,Urgent quest for unlocking LV★★★★★★★
+123,Meeting of the Blangongas,Hunt 2 Blangongas,Snowy Mountains (Night),50mins,670z,8100z,No Info
+124,The White Brute,Slay the Kirin,Snowy Mountains (Day),50mins,670z,8100z,No Info
+125,"Pricy Mushrooms, Shaka!",Deliver 3 Select Mushrooms,Great Forest (Night),50mins,320z,3900z,MHFU addition
+126,The Big Dirt Nap,Hunt the Hypnocatrice,Great Forest (Night),50mins,600z,7200z,MHFU addition
+127,Twin Walls of the Jungle,Hunt all of the Large Monsters,Jungle (Night),50mins,880z,10500z,MHFU addition; Monsters are Blue Yian Kut-Ku and Rathian
+128,The Meeting of Sea and Air,Hunt all of the Large Monsters,Desert (Day),50mins,900z,10800z,MHFU addition; Monsters are Daimyo Hermitaur and Green Plesioth
+129,"Red Lightning, Violet Blade",Hunt all of the Large Monsters,Swamp (Night),50mins,930z,11100z,MHFU addition; Monsters are Red Khezu and Shogun Ceanataur
+130,Land of the Tremors,Hunt 2 Tigrex,Snowy Mountains (Night),50mins,1250z,15000z,Unlocks LV★★★★★★★★ quests; HR6 Rank-Up
+131,Land of the Tremors,Hunt 2 Tigrex,Snowy Mountains (Night),50mins,1250z,15000z,Urgent quest for unlocking LV★★★★★★★★
+132,The Rajang in the Snow,Hunt the Rajang,Snowy Mountains (Day),50mins,750z,9000z,No Info
+133,The Tigrex's Roar,Hunt the Tigrex,Desert (Day),50mins,670z,8100z,No Info
+134,Pink Dance in the Jungle,Hunt the Pink Rathian,Jungle (Day),50mins,670z,8100z,No Info
+135,The Runaway Diablos,Hunt the Diablos,Desert (Day),50mins,670z,8100z,No Info
+136,The Fierce Black Horn,Hunt the Black Diablos,Desert (Day),50mins,750z,9000z,Required for next Urgent
+137,Four Horns,Hunt the Diablos and Black Diablos,Desert (Night),50mins,1250z,15000z,No Info
+138,Rajang of Mountain Flames,Hunt the Rajang,Volcano (Night),50mins,750z,9000z,No Info
+139,Terror of the Gravios,Hunt the Gravios,Volcano (Day),50mins,670z,8100z,No Info
+140,Black Rock in the Swamp,Hunt the Black Gravios,Swamp (Night),50mins,750z,9000z,Required for next Urgent
+141,A Troublesome Pair,Hunt the Rathalos and Rathian,Forest & Hills (Day),50mins,1250z,15000z,No Info
+142,"Blue Sky, Pink Earth",Hunt the Azure Rathalos and Pink Rathian,Forest & Hills (Day),50mins,1500z,18000z,Required for next Urgent
+143,Attack of the Rathalos,Hunt the Azure Rathalos,Forest & Hills (Day),50mins,750z,9000z,No Info
+144,Deny the Silver Rathalos,Hunt the Silver Rathalos,Tower,50mins,830z,9900z,"Required for next Urgent. Hunt a combined total of 100 Bird, Flying, or Piscine Wyverns (excluding small monsters, and Dromes other than Cephadrome) to unlock."
+145,Find the Gold Phantom,Hunt the Gold Rathian,Tower,50mins,750z,9000z,"Required for next Urgent. Hunt a combined total of 100 Bird, Flying, or Piscine Wyverns (excluding small monsters, and Dromes other than Cephadrome) to unlock."
+146,The Fleeting Shadow,Slay 2 Kirins,Battleground,50mins,750z,9000z,Quest appears randomly
+147,The Elder Dragon of Wind,Slay the Kushala Daora,Jungle (Night),50mins,870z,10500z,"Clear all LV★★★★★★ and LV★★★★★★★ quests, except for Epic quests and ""Meeting of the Blangongas"" to unlock"
+148,The Frozen Dictator,Slay the Kushala Daora,Snowy Mountains (Day),50mins,870z,10500z,"Clear all LV★★★★★★ and LV★★★★★★★ quests, except for Epic quests and ""Meeting of the Blangongas"" to unlock"
+149,The Elder Dragon of Mist,Slay the Chameleos,Forest & Hills (Day),50mins,870z,10500z,"Clear all LV★★★★★★ and LV★★★★★★★ quests, except for Epic quests and ""Meeting of the Blangongas"" to unlock"
+150,Towards the Silence,Slay the Chameleos,Swamp (Day),50mins,870z,10500z,"Clear all LV★★★★★★ and LV★★★★★★★ quests, except for Epic quests and ""Meeting of the Blangongas"" to unlock"
+151,The War of Immolation,Slay the Teostra,Town,50mins,1000z,12000z,"Clear all LV★★★★★★ and LV★★★★★★★ quests, except for Epic quests and ""Meeting of the Blangongas"" to unlock"
+152,Emperor of Flame,Slay the Teostra,Volcano (Night),50mins,1000z,12000z,"Clear all LV★★★★★★ and LV★★★★★★★ quests, except for Epic quests and ""Meeting of the Blangongas"" to unlock"
+153,Legendary Black Dragon,Slay the Fatalis,Castle Schrade,50mins,3000z,36000z,Clear each Battle Training once to unlock.
+154,The End Times,Slay the Crimson Fatalis,Battleground,50mins,3000z,36000z,Slay the unlocked Black Fatalis at least once to unlock.
+155,Ancestral Dragon,Slay the White Fatalis,Tower,50mins,3000z,36000z,"Slay 3 Lao-Shan, 3 Fatalis (at least 1 Red), 3 Kirin, and 5 of each other Elder Dragon, including Lunastra."
+156,Wyvern of the Wind,Hunt the Nargacuga,Great Forest (Day),50mins,750z,9000z,"MHFU addition.Must complete Nekoht's ""Secret Request: Nargacuga!"" Urgent Quest to be unlocked."
+157,Born of Darkness,Hunt the Nargacuga,Jungle (Night),50mins,750z,9000z,"MHFU addition.Must complete Nekoht's ""Secret Request: Nargacuga!"" Urgent Quest to be unlocked."
+158,Two Queens,Hunt the Rathian and the Pink Rathian,Great Arena,50mins,1600z,19200z,MHFU addition
+159,One-Horned Demon King,Hunt the Diablos,Desert (Day),50mins,800z,9600z,MHFU addition
+160,Phantasmic Battle,Slay the Kirin,Battleground,50mins,800z,9600z,MHFU addition
+161,Furious Beauties,Hunt all of the Large Monsters,Snowy Mountains (Day),50mins,1250z,15000z,"MHFU addition; Monsters are Khezu, Giadrome, Tigrex"
+162,Fight for the Throne,Hunt all of the Large Monsters,Forest & Hills (Night),50mins,1250z,15000z,"MHFU addition; Monsters are Yian Kut-Ku, Velocidrome, Rathalos"
+163,Hotter than Hell Itself,Hunt all of the Large Monsters,Volcano (Night),50mins,1380z,16500z,"MHFU addition; Monsters are Basarios, Iodrome, Gravios"
+164,Desert Unifier,Hunt all of the Large Monsters,Desert (Day),50mins,1380z,16500z,"MHFU addition; Monsters are Daimyo Hermitaur, Cephadrome, Diablos"
+165,The Approaching Gaoren,Defend the Town from Shen Gaoren,Town,30mins,2000z,24000z,"Unlocks the second Urgent ""Rise to the Summit"""
+166,Rise to the Summit,Slay the Akantor,Battleground,50mins,3000z,36000z,"Unlocks the third Urgent ""Hypno, Hypno!"""
+167,"Hypno, Hypno!",Hunt 2 Hypnocatrices,Great Forest (Day),50mins,3000z,36000z,Unlocks G★ (G-Rank) quests; HR7 Rank-Up
+168,G-Lvl Gathering - Grt Forest,Survive until Time Over or Deliver the Paw Pass Ticket,GrtForest (Day),50mins,0z,12z,No Info
+169,G-Lvl Gathering - Old Jungle,Survive until Time Over or Deliver the Paw Pass Ticket,Old Jungle,50mins,0z,12z,No Info
+170,G-Lvl Gathering - Old Desert,Survive until Time Over or Deliver the Paw Pass Ticket,Old Desert,50mins,0z,12z,No Info
+171,G-Lvl Gathering - Old Swamp,Survive until Time Over or Deliver the Paw Pass Ticket,Old Swamp,50mins,0z,12z,No Info
+172,G-Lvl Gathering - Snowy Mts.,Survive until Time Over or Deliver the Paw Pass Ticket,SnwyMntains (Day),50mins,0z,12z,No Info
+173,Shakalaka Showdown!,Slay 20 Shakalakas,GrtForest (Day),50mins,650z,7800z,No Info
+174,The Beating of Royal Wings,Slay the Vespoid Queen,Jungle (Night),50mins,580z,6900z,No Info
+175,The Big Dirt Nap,Hunt the Hypnocatrice,Old Jungle,50mins,750z,9000z,No Info
+176,"Hypno, Hypno!",Hunt 2 Hypnocatrices,GrtForest (Day),50mins,1100z,13200z,"Urgent Quest to access G-Rank, HR6+ only"
+177,Trapped by Yian Kut-Ku,Hunt the Yian Kut-Ku and Blue Yian Kut-Ku,Swamp (Day),50mins,1120z,13500z,No Info
+178,Giant Crab of the Old Jungle,Hunt the Daimyo Hermitaur,Old Jungle,50mins,750z,9000z,No Info
+179,Daimyo of Sengoku Fame,Hunt the Plum D.Hermitaur,Old Desert,50mins,880z,10500z,Required for Urgent Quest
+180,Wag the Dog!,Hunt the Daimyo Hermitaur and the Plum D.Hermitaur,Desert (Day),50mins,1250z,15000z,No Info
+181,Old Jungle Lightning,Hunt the Khezu,Old Jungle,50mins,780z,9300z,Required for Urgent Quest
+182,Red Shadow in the Snow,Hunt the Red Khezu,SnwyMntains (Night),50mins,900z,10800z,No Info
+183,Tales from the Old Swamp,Hunt 2 Red Khezu,Old Swamp,50mins,1270z,15300z,No Info
+184,Eyes in the Underground Lake,Hunt the Plesioth,Old Desert,50mins,800z,9600z,Required for Urgent Quest
+185,Giant Green Waves of Verdure,Hunt the Green Plesioth,Old Jungle,50mins,930z,11100z,No Info
+186,Prodigal Pack Attack!,Hunt the Congalala,Swamp (Night),50mins,750z,9000z,No Info
+187,Pelagus Pride,Hunt the Emerald Congalala,Old Jungle,50mins,880z,10500z,Required for Urgent Quest
+188,Trickster!,Hunt the Emerald Congalala,GrtForest (Night),50mins,880z,10500z,No Info
+189,Stealing in the Jungle!,Hunt the Gypceros,Jungle (Night),50mins,750z,9000z,No Info
+190,"Old Swamp, Shrouded in Mist",Hunt 2 Purple Gypceros,Old Swamp,50mins,1350z,14100z,Required for Urgent Quest
+191,Subspecies Three!,Hunt all of the Large Monsters,Jungle (Day),50mins,1750z,21000z,"Blue Yian Kut-Ku, Green Plesioth, Plum D.Hermitaur"
+192,Predators of the Swamp,Hunt all of the Large Monsters,Swamp (Day),50mins,1850z,22200z,"Emerald Congalala, Purple Gypceros, Khezu"
+193,Ever-Present Shadow ,Hunt the Nargacuga ,GrtForest (Night),50mins,1050z,12600z,Lv G★ Urgent Quest (For HR8)
+194,G-Lvl Gathering - Frst&Hills,Survive until Time Over or Deliver the Paw Pass Ticket,Forest & Hills (Night),50mins,0z,12z,No Info
+195,G-Lvl Gathering - OldVolcano,Survive until Time Over or Deliver the Paw Pass Ticket,Old Volcano,50mins,0z,12z,No Info
+196,Ever-Present Shadow,Hunt the Nargacuga,GrtForest (Night),50mins,1050z,12600z,HR8 Urgent Quest
+197,Assassin of the Swamp,Hunt the Nargacuga,Old Swamp,50mins,1050z,12600z,No Info
+198,"Ancient Beauty, Black Beast",Hunt 2 Nargacugas,GrtForest (Day),50mins,1920z,23100z,No Info
+199,Lavasioth Sighting!,Hunt the Lavasioth,Volcano (Day),50mins,1100z,13200z,Required for Urgent Quest
+200,River of Fire,Hunt 2 Lavasioths,Volcano (Night),50mins,2000z,24000z,No Info
+201,"Strong Sword, Strong Shield",Hunt the Daimyo Hermitaur and Shogun Ceanataur,Great Arena,50mins,2000z,24000z,No Info
+202,Commander in the Flames,Hunt the Shogun Ceanataur,Volcano (Night),50mins,1000z,12000z,No Info
+203,Dark-Shelled Ceanataur,Hunt the Terra S.Ceanataur,Old Swamp,50mins,1120z,13500z,No Info
+204,Under the Gaze of Heaven,Hunt the Shogun Ceanataur and the Terra S. Ceanataur,Swamp (Night),50mins,1920z,23100z,Required for Urgent Quest
+205,At Birds' Hill...,Hunt the Yian Kut-Ku,Forest & Hills (Day),50mins,750z,9000z,The Yian Kut Ku is small.
+206,"A King, Robed in Smoke",Hunt the Rathalos,Old Volcano,50mins,1050z,12600z,Required for Urgent Quest
+207,The King's Domain,Hunt the Azure Rathalos,Forest & Hills (Night),50mins,1150z,13800z,No Info
+208,Her Eternal Majesty,Hunt the Rathian,Old Swamp,50mins,1000z,12000z,Required for Urgent Quest
+209,The Cherry Blossom Rathian,Hunt the Pink Rathian,Old Jungle,50mins,1100z,13200z,No Info
+210,Howling at the Moon,Hunt the Yian Garuga,GrtForest (Night),50mins,1050z,12600z,No Info
+211,The Yian Garuga Twins,Hunt 2 Yian Garuga,Jungle (Day),50mins,1920z,23100z,No Info
+212,The King of the Mountains,Hunt the Blangonga,SnwyMntains (Day),50mins,1000z,12000z,No Info
+213,Copper Sands,Hunt the Copper Blangonga,Old Desert,50mins,1120z,13500z,No Info
+214,Wild Monk of the Dunes,Hunt the Copper Blangonga,Desert (Day),50mins,1120z,13500z,Required for Urgent Quest
+215,Basarios Seasons,Survive until Time Over or Deliver the Paw Pass Ticket,Old Volcano,50mins,1000z,12000z,Hunt 2 or more Basarios before Time Up
+216,Operation Tropical Storm,Hunt all of the Large Monsters,Jungle (Day),50mins,2450z,29400z,"Plum D.Hermitaur, Gypceros, Rathian"
+217,Save the Great Forest Town!,Hunt all of the Large Monsters,GrtForest (Day),50mins,2500z,30000z,"Hypnocatrice, Emerald Congalala, Nargacuga"
+218,Three Walls,Hunt all of the Large Monsters,Forest & Hills (Day),50mins,2500z,30000z,"Yian Kut-Ku, Yian Garuga, Azure Rathalos"
+219,A Hunter's Feast,Hunt all of the Large Monsters,Great Arena,50mins,2500z,30000z,"Daimyo Hermitaur, Blangonga, Shogun Ceanataur"
+220,Lao-Shan Lung Draws Near!,Defend the Fortress form Lao-Shan Lung,Fortress,35mins,3000z,36000z,Clear all G1★ and G2★ Epic Hunts to unlock
+221,The Floating Dragon,Slay the Yama Tsukami ,Tower,50mins,2500z,30000z,Lv G★★ Urgent Quest (For HR9)
+222,Absolute Power,Hunt the Tigrex,SnwyMntains (Day),50mins,1150z,13800z,Required for Urgent Quest
+223,Land of the Tremors,Hunt 2 Tigrex,Desert (Day),50mins,2100z,25200z,No Info
+224,Sandstorm Summoner,Hunt the Diablos,Old Desert,50mins,1150z,13800z,No Info
+225,The Fierce Black Horn,Hunt the Black Diablos,Desert (Night),50mins,1250z,15000z,No Info
+226,Black Phalanges,Hunt 2 Black Diablos,Old Desert,50mins,2250z,27000z,Required for Urgent Quest
+227,Armored Supremacy,Hunt the Gravios,Old Swamp,50mins,1150z,13800z,Required for Urgent Quest
+228,Terror of the Gravios,Hunt the Black Gravios,Volcano (Day),50mins,1250z,15000z,No Info
+229,The Dark Cataphracts,Hunt 2 Black Gravios,Old Volcano,50mins,2250z,27000z,No Info
+230,Explore the Unexplored,Hunt the Silver Rathalos,Tower,50mins,1350z,16200z,Required for Urgent Quest
+231,A Single Beam of Moonlight,Hunt the Gold Rathian,Tower,50mins,1300z,15600z,Required for Urgent Quest
+232,Descendants of the King,Hunt the Silver Rathalos and the Gold Rathian,Great Arena,50mins,3000z,36000z,No Info
+233,Child of Destruction,Hunt the Rajang,Old Volcano,50mins,2500z,30000z,The Rajang in this quest is a Furious Rajang.
+234,The Final Invitation,Hunt 2 Rajang,Great Arena,50mins,3000z,36000z,No Info
+235,A Scenic Locale,Slay the Kirin,Tower,50mins,1150z,13800z,Quest availability is random
+236,It's Electric,Slay the Kirin,Old Swamp,50mins,1250z,15000z,Quest availability is random
+237,Deathmatch on the Dunes!,Hunt all of the Large Monsters,Desert (Day),50mins,3000z,36000z,"Diablos, Copper Blangonga, Tigrex"
+238,"Fire, Electricity, Heat Ray",Hunt all of the Large Monsters,Old Swamp,50mins,2500z,30000z,"Pink Rathian, Red Khezu, Gravios"
+239,The 3 Masters of the Volcano,Hunt all of the Large Monsters,Volcano (Day),50mins,3000z,36000z,"Lavasioth, Terra S.Ceanataur, Rathalos"
+240,Diamond Dust,Hunt all of the Large Monsters,SnwyMntains (Night),50mins,2500z,30000z,Tigrex and Rajang
+241,Hunter's Funeral,Hunt all of the Large Monsters,Moat Arena,50mins,3000z,36000z,"Khezu, Shogun Ceanataur, Plesioth, Diablos"
+242,Pride on the Line,Hunt all of the Large Monsters,Great Arena,50mins,3000z,36000z,"Black Diablos, Black Gravios, Nargacuga"
+243,The Dragon of Steel,Slay the Kushala Daora,Desert (Night),50mins,1420z,17100z,Appears randomly after killing/repelling G-Rank Lao.
+244,The Dragon of Wind,Slay the Kushala Daora,Jungle (Night),50mins,1420z,17100z,Same as above.
+245,Emperor of Flame,Slay the Teostra,Volcano (Night),50mins,1550z,18600z,Same as above.
+246,A Midnight Audience,Slay the Teostra,Swamp (Night),50mins,1550z,18600z,Same as above.
+247,Evaporate into the Night,Slay the Chameleos,Jungle (Night),50mins,1420z,17100z,Same as above.
+248,Towards the Silence,Slay the Chameleos,Swamp (Night),50mins,1420z,17100z,Same as above.
+249,The Floating Dragon,Slay the Yama Tsukami,Tower,50mins,2500z,30000z,HR9 Urgent Quest
+250,The Approaching Gaoren,Defend the Town from Shen Gaoren,Town,30mins,3500z,42000z,You will fail if the Fort Integrity reaches Zero / Required for Urgent Quest
+251,Absolute Zero,Slay the Ukanlos ,SnwyMtnsPeak,50mins,5000z,60000z,Lv G★★★ Urgent Quest
+252,Legendary Black Dragon,Slay the Fatalis,Castle Schrade,50mins,4500z,54000z,Complete at least one weapon training (G-Class) for each Monster (8 Total)
+253,The End Times,Slay the Crimson Fatalis,Battleground,50mins,4500z,54000z,Slay the Fatalis and clear all Elder Dragon quests (including Kirin)
+254,Ancestral Dragon,Slay the White Fatalis,Tower,50mins,4500z,54000z,Slay the Crimson Fatalis and clear all G3★ Epic Hunting Quests
