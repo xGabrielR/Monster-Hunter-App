@@ -3,6 +3,11 @@
 
 <h2>1. Business Problem (Objectives)</h2>
   <p>Some data with information of monster hunter freedom unite game on wiki page or other websites. All information must be easily accessed by the user, you is free to select what of visual product of the data.</p>
+ <ul>
+    <li>All Quests.</li>
+    <li>All Monster.</li>
+    <li>All Items.</li>
+</ul>
   
 <h2>2. Solution Strategy & Assumptions</h2>
 <h3>First CRISP Cycle</h3>
@@ -16,3 +21,16 @@
       <dd>Simple regex applications and pandas manipulation using wiki and real game to fill some na or inconsistent values.</dd>
   </dl>
 </ul>
+
+<h2>3. Data Granularity</h2>
+<h3>Item Data </h3>
+<ul>
+  <li>Item Name Granularity.</li>
+</ul>
+<h3>Quests Data </h3>
+<ul>
+  <li>Hunter Rank Granularity.</li>
+</ul>
+
+<h2>3. Little Problems Finded</h2>
+<p>Some missing data and different tables sizes on wiki.</p>
