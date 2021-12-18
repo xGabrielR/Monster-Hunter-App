@@ -1,0 +1,83 @@
+,name,jp_name,class,element,weak,generation
+0,Felyne,アイルー(Airū),Lynian,"Fire, Water","Thunder, Ice",First
+1,Melynx,メラルー(Merarū),Lynian,"Fire, Water","Thunder, Ice",First
+2,Shakalaka,チャチャブー(Chachabū),Lynian,"Sleep, Poison","Poison, Ice",Second
+3,Vespoid,ランゴスタ(Rangosuta),Neopteron,"Paralysis, Fire","Fire, Poison",First
+4,Hornetaur,カンタロス(Kantarosu),Neopteron,"Fire, Water","Fire, Water",First
+5,Great Thunderbug,大雷光虫,Neopteron,"Thunder, Paralysis","Paralysis, Water",Second
+6,Anteka,ガウシカ(Gaushika),Herbivore,"Fire, Water","Thunder, Ice",Second
+7,Popo,ポポ,Herbivore,None,Fire,Second
+8,Kelbi,ケルビ(Kerubi),Herbivore,"Fire, Water","Thunder, Ice",First
+9,Mosswine,モス(Mosu),Herbivore,"Fire, Water","Thunder, Ice",First
+10,Aptonoth,アプトノス,Herbivore,"Fire, Water","Thunder, Ice",First
+11,Apceros,アプケロス(Apukerosu),Herbivore,"Fire, Thunder","Fire, Thunder",First
+12,Giaprey,ギアノス(Gianosu),Bird Wyvern,"Ice, Snowman","Iceblight, Fire",Second
+13,Velociprey,ランポス(Ranposu),Bird Wyvern,None,Thunder,First
+14,Genprey,ゲネポス,Bird Wyvern,"Paralysis, Water","Thunder, Ice",First
+15,Ioprey,イーオス,Bird Wyvern,"Poison, Water","Poison, Water",First
+16,Remobra,ガブラス(Gaburasu),Flying Wyvern,"Poison, Dragon","Dragon, Water",Second
+17,Cephalos,ガレオス(Gareosu),Piscine Wyvern,"Water, Paralysis","Ice, Thunder",First
+18,Hermitaur,ヤオザミ(Yaozami),Carapaceon,None,Thunder,Second
+19,Ceanataur,ガミザミ(Gamizami),Carapaceon,"Poison, Thunder","Poison, Thunder",Second
+20,Bullfango,ブルファンゴ(Burufango),Herbivore,"Fire, Thunder","Fire, Thunder",First
+21,Conga,コンガ(Konga),Fanged Beast,None,"Soiled, Fire",Second
+22,Blango,ブランゴ(Burango),Fanged Beast,Ice,"Snowman, Fire",Second
+23,King Shakalaka,キングチャチャブー(Kingu Chachabuu),Lynian,"Fire, Sleep","Sleep, Ice",Second
+24,Vespoid Queen,クイーンランゴスタ,Neopteron,"Defense Down, Paralysis","Paralysis, Fire",Second
+25,Giadrome,ドスギアノス(Dosugianosu),Bird Wyvern,"Ice, Snowman","Iceblight, Fire",Second
+26,Velocidrome,ドスランポス(Dosuranposu),Bird Wyvern,"Thunder, Ice","Ice, Ice",First
+27,Gendrome,ドスゲネポス(Dosugeneposu),Bird Wyvern,None,Ice,First
+28,Iodrome,ドスイーオス(Dosuiosu),Bird Wyvern,"Poison, Thunder","Water, Thunder",First
+29,Yian Kut-Ku,イャンクック,Bird Wyvern,Fire,"Water, Ice",First
+30,Blue Yian Kut-Ku,イャンクック亜種(Iyankukku Ashu),Bird Wyvern,Fire,"Thunder, Water",First
+31,Yian Garuga,イャンガルルガ,Bird Wyvern,Fire,"Water, Water",Second*
+32,Gypceros,ゲリョス(Geryosu),Bird Wyvern,"Poison, Noxious Poison","Fire, Fire",First
+33,Purple Gypceros,ゲリョス（亜種）(Geryosu Ashu),Bird Wyvern,"Poison, Noxious Poison","Water, Fire",First
+34,Hypnocatrice,ヒプノック,Bird Wyvern,"Sleep, Fire","Sleep, Fire",Second
+35,Rathian,リオレイア,Flying Wyvern,Fire,"Thunder, Water",First
+36,Pink Rathian,リオレイア（亜種）(Rioreia Ashu),Flying Wyvern,Fire,"Thunder, Water",First
+37,Gold Rathian,リオレイア希少種,Flying Wyvern,Fire,"Thunder, Water",First
+38,Rathalos,リオレウス,Flying Wyvern,Fire,"Dragon, Thunder",First
+39,Azure Rathalos,リオレウス亜種,Flying Wyvern,Fire,"Ice, Water",First
+40,Silver Rathalos,リオレウス希少種(Rioreusu Kishou Shu),Flying Wyvern,Fire,"Water, Thunder",First
+41,Khezu,フルフル,Flying Wyvern,Thunder,"Stun, Fire",First
+42,Red Khezu,フルフル（亜種）,Flying Wyvern,Thunder,"Paralysis, Water",First
+43,Basarios,バサルモス,Flying Wyvern,Fire,"Dragon, Water",First
+44,Gravios,グラビモス(Gurabimosu),Flying Wyvern,Fire,"Sleep, Water",First
+45,Black Gravios,グラビモス亜種,Flying Wyvern,Fire,"Poison, Water",First
+46,Monoblos,モノブロス(Monoburosu),Flying Wyvern,"Thunder, Ice","Thunder, Ice",First
+47,White Monoblos,モノブロス亜種,Flying Wyvern,None,Thunder,First
+48,Diablos,ディアブロス(Diaburosu),Flying Wyvern,"Earth, Ice",Ice,First
+49,Black Diablos,ディアブロス亜種,Flying Wyvern,None,Ice,First
+50,Tigrex,ティガレックス,Flying Wyvern,None,"Thunder, Dragon",Second
+51,Nargacuga,ナルガクルガ,Flying Wyvern,None,"Thunder, Fire",Second
+52,Akantor,アカムトルム,Flying Wyvern,"Fire, Dragon","Dragon, Thunder",Second
+53,Ukanlos,ウカムルバス,Flying Wyvern,Ice,"Fire, Thunder",Second
+54,Cephadrome,ドスガレオス,Piscine Wyvern,"Water, Paralysis","Ice, Thunder",First
+55,Plesioth,ガノトトス,Piscine Wyvern,Water,"Thunder, Fire",First
+56,Green Plesioth,ガノトトス亜種,Piscine Wyvern,"Water, Sleep","Thunder, Fire",First
+57,Lavasioth,ヴォルガノス(Voruganosu),Piscine Wyvern,Fire,"Fireblight, Water",Second
+58,Daimyo Hermitaur,ダイミョウザザミ(Daimyou Zazami),Carapaceon,Water,"Poison, Thunder",Second
+59,Plum Daimyo Hermitaur,ダイミョウザザミ亜種(Daimyou Zazami Ashu),Carapaceon,Water,"Ice, Thunder",Second
+60,Shogun Ceanataur,ショウグンギザミ,Carapaceon,Water,"Thunder, Ice",Second
+61,Terra Shogun Ceanataur,ショウグンギザミ亜種,Carapaceon,"Water, Thunder","Thunder, Water",Second
+62,Shen Gaoren,シェンガオレン,Carapaceon,"Fire, Dragon","Fire, Dragon",Second
+63,Bulldrome,ドスファンゴ,Fanged Beast,None,Thunder,Second
+64,Congalala,ババコンガ(Babakonga),Fanged Beast,Fire,"Blastblight, Fire",Second
+65,Emerald Congalala,ババコンガ亜種(Babakonga Ashu),Fanged Beast,Fire,"Blastblight, Ice",Second
+66,Blangonga,ドドブランゴ,Fanged Beast,Ice,"Snowman, Fire",Second
+67,Copper Blangonga,ドドブランゴ亜種,Fanged Beast,"Stun, Ice","Stun, Ice",Second
+68,Rajang,ラージャン,Fanged Beast,Thunder,"Ice, Earth",Second
+69,Furious Rajang,激昂したラージャン,Fanged Beast,Thunder,"Ice, Earth",Second
+70,Kirin,キリン,Elder Dragon,Thunder,"Fire, Water",First
+71,Kushala Daora,クシャルダオラ,Elder Dragon,"nd Gen, MHGen","Thunder, Fire",Second
+72,Rusted Kushala Daora,錆びたクシャルダオラ,Elder Dragon,"Dragon, Ice","Water, Dragon",Second
+73,Chameleos,オオナズチ,Elder Dragon,"Dragon, Water","Fire, Thunder",Second
+74,Lunastra,ナナ・テスカトリ,Elder Dragon,"Fire, Dragon","Dragon, Ice",Second
+75,Teostra,テオ・テスカトル,Elder Dragon,"Dragon, Fire","Water, Ice",Second
+76,Lao-Shan Lung,ラオシャンロン,Elder Dragon,"Dragon, Dragon","Dragon, Dragon",First
+77,Ashen Lao-Shan Lung,ラオシャンロン亜種(Raoshanron Ashu),Elder Dragon,"Dragon, Dragon","Dragon, Fire",First
+78,Yama Tsukami,ヤマツカミ(Yamatsukami),Elder Dragon,"Fire, Paralysis","Dragon, Ice",Second
+79,Fatalis,ミラボレアス,Elder Dragon,"Dragon, Fire","Dragon, Fire",First
+80,Crimson Fatalis,ミラボレアス（紅龍）,Elder Dragon,"Dragon, Fire","Dragon, Ice",First
+81,White Fatalis,ミラボレアス(祖龍),Elder Dragon,"Thunder, Dragon","Dragon, Fire",Second
