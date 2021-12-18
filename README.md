@@ -36,8 +36,4 @@
 </ul>
 
 <h2>3. Little Problems Finded</h2>
-<<<<<<< HEAD
 <p>Some missing data and different tables sizes on wiki.</p>
-=======
-<p>Some missing data and different tables sizes on wiki.</p>
->>>>>>> 1579c79ccc21eaddedb616bcedc5ceffa587b92c
