@@ -37,4 +37,3 @@
 
 <h2>3. Little Problems Finded</h2>
 <p>Some missing data and different tables sizes on wiki.</p>
-<p>Some missing data and different tables sizes on wiki.</p>
