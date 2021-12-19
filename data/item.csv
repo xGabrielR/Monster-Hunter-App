@@ -1,232 +1,218 @@
-id,name,description
-1,Potion,Restores a small amount of health.
-2,Mega Potion,Restores a moderate amount of health.
-3,Nutrients,Increases the maximum Health level slightly.
-4,Mega Nutrients,Medicine that increases the maximum Health level by a small amount.
-5,Antidote,Effectively removes all traces of poison from your system.
-6,Immunizer,Medicine that enhances natural recovery ability.
-7,Power Juice,Allows you to run without becoming fatigued for a period of time.
-8,Mega Juice,Allows you to run without fatigue for even longer than Power Juice.
-9,Demondrug,"Increases Attack power, bestowing the strength of Asura himself on user."
-10,Mega Demondrug,Increases Attack power even more than Demondrug.
-11,Power Pill,A strengthening pill that endows you with the power of a fierce god.
-12,Armorskin,Increases Defense by hardening your skin to stone-like armor.
-13,Mega Armorskin,Increases defense even more than Armorskin.
-14,Armor Pill,A pill that temporarily makes your skin as hard as metal.
-15,Cool Drink,A drink that bestows temporary resistance to extreme heat.
-16,Hot Drink,A drink that bestows temporary resistance to extreme cold.
-17,Thawing Agent,A chemical agent that melts away the frozen tundra in the soul.
-18,Psychoserum,Temporarily activates an psychic ability to sense Wyverns.
-19,Herbal Medicine,"Effectively cures poison, and restores a slight amount of Health."
-20,Max Potion,"Restores Health to the maximum level, enabling a full recovery."
-21,Ancient Potion,"Restores Health and Stamina to maximum levels, enabling a full recovery."
-22,Energy Drink,Recovers Stamina and cures fatigue. Approved by the Guild.
-23,Lifepowder,Medicine created by combining Lifecrystals. Strong restorative power.
-24,Name,In-Game Description 
-25,Cricket,Energetic insect that works well as fishing bait.
-26,Worm,Nightcrawler for fishing. Use 5 worms to raise soil fertility one level.
-27,Firefly,A firefly that's always glowing. Works well as fishing bait.
-28,Frog,A Frog. Works well as fishing bait.
-29,Mega Fishing Fly,"A fly lure that causes a feeding frenzy, no matter what fish is biting."
-30,Tuna Bait,Fishing bait that only tuna will eat.
-31,Arrowana Bait,Fishing bait that only arrowana will eat.
-32,Goldenfish Bait,Fishing bait that only goldenfish will eat.
-33,Name,In-Game Description 
-34,Sunset Herb,A strange herb with a pleasant smell. Good for combining.
-35,Herb,A plant that restores a slight amount of Health.
-36,Antidote Herb,Field plant with antidotal qualities. Relying on it too heavily poses a risk.
-37,Fire Herb,A plant that has flammable properties.
-38,Ivy,A lightweight and extremely strong plant.
-39,Sleep Herb,Plant with sleep-inducing qualities. Can be planted in the field.
-40,Sap Plant,A plant with leaves coated in sticky sap. Difficult to remove once attached.
-41,Felvine,A Melynx favorite. They can't resist its charm.
-42,Cactus Flower,"Contains antidotal substances, but has no effect by itself."
-43,Hot Pepper,"Ignites a fire after only a single bite. Warms you up, but too hot to handle."
-44,Dosbiscus,"A large, beautifully coloured flowering plant foreign to this land."
-45,Honey,Normal honey. Highly nutritious.
-46,Giant Corn,Gigantic corn that's hard to grow in this region. Packed with kernels.
-47,Name,In-Game Description 
-48,Blue Mushroom,Rare mushroom with a power-enhancing effect.
-49,Nitroshroom,Rare mushroom with the power to generate heat.
-50,Parashroom,Mushroom that induces a paralysis effect.
-51,Toadstool,A poisonus fungus. Perhaps it has other effects as well...
-52,Exciteshroom,A mushroom with a very strange smell. What would happen if you ate it...?
-53,Dragon Toadstool,A dangerous fungus said to draw the life out of people. Beware.
-54,Spicy Mushroom,Special Spicy Mushroom that recovers a small amount of Stamina.
-55,Chaos Mushroom,Said to cause chaos. Its spores cause monsters to hallucinate.
-56,Name,In-Game Description 
-57,Huskberry,An empty berry that can grow anywhere. Try planting it in the field.
-58,Paintberry,Releases a smelly paint-like juice when broken. Can be planted.
-59,Power Seed,Temporarily raises Attack power. Short-lived effect if used raw. Plantable.
-60,Armor Seed,Temporarily increases Defense when consumed. Very invigorating.
-61,Dragon Seed,Mysterious berry said to be hated by dragons.
-62,Scatternut,A nut that shatters to pieces when subjected to an impact.
-63,Needleberry,Berry covered in needle-like thorns. Can be made into bullets. Plantable.
-64,Bomberry,A berry that explodes when subjected to an impact.
-65,Frozen Berry,A completely frozen berry. Can provide relief from heat and recover Stamina.
-66,Red Seed,A strange red seed of unknown variety. Can be planted in the field.
-67,Green Seed,A strange green seed of unknown variety. Can be planted in the field.
-68,Yellow Seed,A strange yellow seed of unknown variety. Can be planted in the field.
-69,Name,In-Game Description 
-70,Stone,A small rock. Can be thrown.
-71,Disk Stone,A disk-shaped stone
-72,Iron Ore,Ore that can be smelted into metal and used for many different purposes.
-73,Earth Crystal,Crystallized remains of micro biotic organisms. A prized weapon abrasive.
-74,Machalite Ore,Better than Iron Ore. Used to make Machalite. Also called Sparrowstone.
-75,Dragonite Ore,Better than Machalite. Extremely valuable. Also called Dragonstone.
-76,Carbalite Ore,"An experimental ore also called Spiritstone, it is superior to Dragonite."
-77,Eltalite Ore,A newly discovered ore superior to Carbalite. Also called Kitestone
-78,Union Ore,Ore containing a metal that can fuse any other material together.
-79,Mellanje Ore,A pliable yet durable ore that can fuse any material together. AKA Pidgeonstone
-80,Firestone,Combusts at room temp. Can only be mixed with suitable materials.
-81,Firecell Stone,A magma-like ore. Only to be handled by trained hands. AKA Eagle's Eye.
-82,Lightcrystal,Crystal with a dull glow. Extremely hard. It is used for tools in the armory.
-83,Novacrystal,"Brightly glowing crystal. Extremely hard, it is used for tools in the armory."
-84,Purecrystal,"100% pure and extremely hard, it's even used in workshop machinery."
-85,Antiseptic Stone,An unnatural Crystal with enhanced antiseptic qualities.
-86,Ice Crystal,Will not thaw at room temperature. Confirmed to increase ore density.
-87,Rainbow Ore,Beautiful ore. Colors and properties depend on many variables.
-88,Name,In-Game Description 
-89,Armor Stone,Ore with a unique reaction to heat. Can be combined to make an armor coating.
-90,Armor Sphere,Its unique reaction to heat can be used to increase armor strength.
-91,Armor Sphere+,Dense and high quality. Treasured as a supplement to armor strength.
-92,Hrd Armor Sphere,"Hard, high density Armor Sphere. Rare material used in high strength armor."
-93,Hvy Armor Sphere,"Thick, dense Armor Sphere. Rarely obtained, it raises the bar on armor strength."
-94,Ryl Armor Sphere,"Radiant, majestic Armor Sphere. Very rare, it can greatly fortify armor."
-95,Tru Armor Sphere,A limit-breaking Armor Sphere. It brings out the true power of an armor.
-96,Name,In-Game Description 
-97,Knife Mackerel,A fish with a dorsal fin hard enough to be used to sharpen weapons
-98,Sushifish,A delicious fish that restores a small amount of Health when consumed.
-99,Sleepyfish,A fish with sleep-inducing properties
-100,Pin Tuna,A fish with a jaw covered in tiny needle-like spikes
-101,Rumblefish,A fish that cracks open when killed
-102,Scatterfish,A fish that shatters to pieces when killed
-103,Burst Arrowana,A fish that ruptures open when killed.
-104,Bomb Arrowana,A fish that explodes when killed
-105,Glutton Tuna,"Will devour anything in its path, and sometimes these remain inside"
-106,Gastronome Tuna,"An enormous Glutton Tuna. Will eat anything, no matter the size."
-107,Speartuna,A rare and valuable giant-sized fish. What could it be used for...?
-108,Small Goldenfish,"A curiously small, rare, gold fish. Commands a high price"
-109,Ancient Fish,A precious fish which can be almost entirely used as material.
-110,Springnight Carp,A species of carp whose arrival signals the start of breeding season.
-111,Tailed Frog,Rare frog that retained its tail. This happens under special conditions.
-112,Name,In-Game Description 
-113,Insect Husk,The remains of a dead insect.
-114,Yambug,Yam-like bug that exudes a scent that drives tuna wild. Great fishing bait.
-115,Bughopper,An insect that exudes a scent that drives arrowana wild. Great fishing bait.
-116,Snakebee Larva,A snake-like larva with a scent that Goldenfish just love. Great fishing bait.
-117,Godbug,An insect said to live for a thousand years.
-118,Bitterbug,Contains a bitter essence. Has a 50% chance of curing poison if consumed.
-119,Flashbug,An insect that emits a powerful flash when it dies.
-120,Thunderbug,An insect that emits electricity when struck. Has many applications.
-121,Carpenterbug,Viscous body fluids and sharp jaws make this insect an artisan.
-122,King Scarab,"The Royal Class of the scarabs, with a hard shell and lustrous wings."
-123,Emperor Cricket,Exceptionally strong shell makes it a good counterpart to soft materials.
-124,Killer Beetle,Insect with a hard shell and dazzling wings. Used as an abrasive.
-125,Hercudrome,Said to be the world's strongest bug. Widely used in making equipment.
-126,Rare Scarab,"A rare, prized insect. Used to increase the power of metal objects."
-127,Phantom Butterfly,"Rarely seen by humans, its wings shimmer like precious gems."
-128,Rainbow Insect,Beautiful insect material. Colors and properties depend on many variables.
-129,Great Hornfly,"Its giant horn and massive shell give it a rare, butterfly-like beauty."
-130,Great Ladybug,Giant insect with a very hard shell. Protects crops by eating harmful pests.
-131,Royal Rhino,Beetle with a jewel like shine and prized by collectors .
-132,Divine Rhino,Beetle that glows as if from the heavens. Loved by collectors.
-133,Name,In-Game Description 
-134,Screamer,"A monster's internal organ. If broken, it emits a shrill sound."
-135,Poison Sac,A monster's internal organ. Contains a lethal poison.
-136,Toxin Sac,"A monster's internal organ filled with potent toxin. Dangerous, even to touch."
-137,DeadlyPoisonSac,A monster's internal organ filled with a most lethal toxin. Use extreme care.
-138,Paralysis Sac,A monster's internal organ filled with a paralyzing neurotoxin.
-139,Sleep Sac,A monster's internal organ filled with a powder that causes sleep when inhaled.
-140,Coma Sac,A monster's internal organ filled with a powder that can induce a coma.
-141,Flame Sac,A monster's internal organ. Contains a very flammable powder.
-142,Inferno Sac,A monster's internal organ filled with a powder that ignites when touched.
-143,Blazing Fire Sac,A monster's internal organ filled with an explosive powder. Watch out!
-144,Electro Sac,The internal organ of a Khezu. Releases electricity if disturbed.
-145,Thunder Sac,The internal organ of a Khezu. Contains unequaled electrical energy.
-146,Lightning Sac,A monster's internal organ charged with electricity & the rumbling of thunder.
-147,Name,In-Game Description 
-148,Sm Monster Bone,"A very useful material, indispensable for both hunting and daily life."
-149,Med Monster Bone,Has more uses than small bone. Usually carved to make an item.
-150,Lg Monster Bone,Indispensable for crafting one-piece items. Bone can be connected to shell
-151,Monster Bone+,Top quality monster bone. Hard to find but a nearly unbreakable material
-152,Hrd Monster Bone,"A monster's most unique bone. Priceless strength, but difficult to work."
-153,Hvy Monster Bone,Strong bone from only the toughest of wyverns. It's very thick and heavy.
-154,Eldr Dragon Bone,You can sense the elder dragon's dignity from this massive bone alone.
-155,BigEDragonBone,Top-notch bone from a large dragon. Feels like it could last forever.
-156,Mystery Bone,A well-worn bone. Not sturdy enough to use in combination.
-157,Unknown Skull,"Animal skull. So worn and weathered, it's unidentifiable."
-158,Master's Skull,The remains of a top hunter who once let his guard down.
-159,Bone,"Just a bone. So worn and weathered, it's unidentifiable."
-160,RobustWyvernBone,A bird wyvern's robust bone. It's easy to work with and is very durable.
-161,Brute Bone,The stout bone of a brutish monster. An easy to work with material
-162,Giant Bone,"A fat, large bone. Can be cut in the workshop to make crafting material."
-163,Stout Bone,"The stout, hard bone of a brute. Rigid, it is priceless for crafting."
-164,Massive Bone,"An especially strong bone from a brute, Possesses an invaluable strength."
-165,Sm Bone Husk,Bone ammunition casing. Stronger than a Huskberry ammunition casing.
-166,Lg Bone Husk,Bone ammunition casing that can withstand powerful explosions.
-167,Name,In-Game Description 
-168,Sinister Cloth,Found long ago in the tomb of a king from a forgotten desert land.
-169,Wyverian Harp,"A legendary Wyverian Harp. Originally a weapon, it is in need of some repairs."
-170,Lost Umbrella,Noblewoman's umbrella. Seems to have hidden features. Try fixing it.
-171,Ruststone,"Looks like a lump of dirt, but it's actually rusted metal. Try polishing it..."
-172,Flat Ruststone,"Looks like a lump of dirt, but it's actually rusted metal. Try polishing it..."
-173,Large Ruststone,"Looks like a lump of dirt, but it's actually rusted metal. Try polishing it..."
-174,Small Ruststone,"Looks like a lump of dirt, but it's actually rusted metal. Try polishing it..."
-175,Ruststone Rod,"Looks like a lump of dirt, but it's actually rusted metal. Try polishing it..."
-176,Ancient Stone,Appears to be some kind of fossilized metal. Maybe a treasure if polished.
-177,AncientFlatstone,Appears to be some kind of fossilized metal. Maybe a treasure if polished.
-178,Lg Ancient Stone,Appears to be some kind of fossilized metal. Maybe a treasure if polished.
-179,Sm Ancient Stone,Appears to be some kind of fossilized metal. Maybe a treasure if polished.
-180,Ancient StoneRod,Appears to be some kind of fossilized metal. Maybe a treasure if polished.
-181,Name,In-Game Description 
-182,Steel Egg,A glittering Steel Egg. Incredibly expensive and rare. No Use to a hunter.
-183,Silver Egg,A glittering Silver Egg. Incredibly expensive and rare. No Use to a hunter.
-184,Golden Egg,A glittering Gold Egg. Incredibly expensive and rare. No Use to a hunter.
-185,Name,In-Game Description 
-186,Kut-Ku Coin,Given on the whim of an esteemed instructor upon defeating a Yian Kut-Ku.
-187,Congalala Coin,Given on the whim of an esteemed instructor upon defeating a Congalala.
-188,Khezu Coin,Given on the whim of an esteemed instructor upon defeating a Khezu.
-189,Daimyo Coin,Given on the whim of an esteemed instructor upon defeating a Daimyo Hermitaur.
-190,Blangonga Coin,Given on the whim of an esteemed instructor upon defeating a Blangonga.
-191,Yian Garuga Coin,Given on the whim of an esteemed instructor upon defeating a Yian Garuga.
-192,Tigrex Coin,Given on the whim of an esteemed instructor upon defeating a Tigrex.
-193,Diablos Coin,Given on the whim of an esteemed instructor upon defeating a Diablos.
-194,Gravios Coin,Given on the whim of an esteemed instructor upon defeating a Gravios.
-195,Kirin Coin,Given on the whim of an esteemed instructor upon defeating a Kirin.
-196,Fire Coin,Given on the whim of an esteemed instructor upon defeating a Fire Wyvern.
-197,Cephadrome Coin,Given on the whim of an esteemed instructor upon defeating a Cephadrome.
-198,Plesioth Coin,Given on the whim of an esteemed instructor upon defeating a Plesioth.
-199,Shogun Coin,Given on the whim of an esteemed instructor upon defeating a Shogun Ceanataur.
-200,Rajang Coin,Given on the whim of an esteemed instructor upon defeating a Rajang.
-201,BlackBeltCoinG,Nihilistic black coin. Conferred upon completion of G-Level training.
-202,Expert Coin G,Glistening yellow coin. Conferred upon completion of G-Level training.
-203,Warrior Coin G,Refreshing blue coin. Conferred upon completion of G-Level training.
-204,Legend Coin G,Enigmatic crimson coin. Conferred upon completion of G-Level training.
-205,Name,In-Game Description 
-206,Commendation,Ticket awarded for a display of bravery. Try collecting them.
-207,Commendation G,Ticket awarded for a display of great bravery. Try collecting them.
-208,Commendation S,Ticket awarded for a display of superb bravery. Try collecting them.
-209,Pawprint Stamp,"The paper currency of the Lynian race, stamped with a Felyne paw. Unreadable."
-210,Pokke Ticket,Received for contributions to Pokke Village. If you give it to the crafter...
-211,Pokke Ticket+,Received for becoming the true Hero of Pokke. If you give it to the crafter...
-212,FlynMealPassReg,Ticket for a standard Felyne dinner. If traded at the crafting shop...
-213,FlynMealPassPlus,Ticket for a high class Felyne dinner. If traded at the crafting shop...
-214,VeggieElderTcket,Earned by hunting with friends. Try trading it with a Veggie Elder.
-215,VeggieElderTckt+,Earned by hunting with friends. Check the Card List. Every 10th friendship lvl gives you one
-216,VegElderTcktBrz,Earned by hunting with friends. Try trading it with a Veggie Elder.
-217,VegElderTcktSlv,If you trade this with a Veggie Elder you may get a rare item...
-218,VegElderTckGld,If you trade this with a Veggie Elder you may get a superior item...
-219,VegElderTckSky,If you trade this with a Veggie Elder you may get an extraordinary item...
-220,Blackbelt Ticket,Earned by overcoming difficult training. Maybe you should collect them?
-221,Expert Ticket,Earned by overcoming extreme training. Maybe you should collect them?
-222,Hero of Kkto Bio,Recounts Hero of Kokoto's exploits. Includes plans for the Hero's sword.
-223,Hero of JumboBio,Recounts Hero of Jumbo's exploits. Includes plans for the Hero's sword.
-224,Elder Thank You,Given to the one who saved the town from fear. A recipe is on the back.
-225,Elder Thnk You+,Given to the one who saved the town from calamity. A recipe is on the back.
-226,Hunter's Ticket,Written by the Hero of Kokoto and given only to full-fledged hunters.
-227,Hunter Soul Tkt,An honor for successful hunters. Symbolizes a hunter's true soul.
-228,Puppet Ticket,"A ticket stamped by two Felyne paws. At your service, nya!"
-229,SpecPuppetTicket,"A Guild-stamped, hand-made ticket. It was made with a lot of heart."
-230,Hypno Ticket,Stamped proof of hunting a Hypnocatrice and finishing a hard quest.
-231,Lavasioth Ticket,Stamped proof of hunting a Lavasioth and finishing a hard quest.
+,name,description,found,value,rarity
+0,Potion,Restores a small amount of health.,Combine Herb and Blue Mushroom or buy it in the shop or the guild shoppe,7z,1
+1,Mega Potion,Restores a moderate amount of health.,Combine Potion and Honey,16z,2
+2,Nutrients,Increases the maximum Health level slightly.,Combine Godbug and Blue Mushroom,25z,2
+3,Mega Nutrients,Medicine that increases the maximum Health level by a small amount.,Combine Nutrients and Honey,92z,3
+4,Antidote,Effectively removes all traces of poison from your system.,Combine Antidote Herb and Blue Mushroom or buy it,6z,1
+5,Immunizer,Medicine that enhances natural recovery ability.,Combine Catalyst and Dragon Toadstool,92z,3
+6,Power Juice,Allows you to run without becoming fatigued for a period of time.,Combine Rare Steak and Catalyst,29z,2
+7,Mega Juice,Allows you to run without fatigue for even longer than Power Juice.,Combine Well-Done Steak and Power Extract,205z,3
+8,Demondrug,"Increases Attack power, bestowing the strength of Asura himself on user.",Combine Power Seed and Catalyst,67z,4
+9,Mega Demondrug,Increases Attack power even more than Demondrug.,Combine Demondrug and Pale Extract,283z,5
+10,Power Pill,A strengthening pill that endows you with the power of a fierce god.,Check combine list,280z,1
+11,Armorskin,Increases Defense by hardening your skin to stone-like armor.,Combine Catalyst and Armor Seed,58z,4
+12,Mega Armorskin,Increases defense even more than Armorskin.,Combine Armorskin and Pale Extract,269z,5
+13,Armor Pill,A pill that temporarily makes your skin as hard as metal.,Check combine list,260z,1
+14,Cool Drink,A drink that bestows temporary resistance to extreme heat.,Combine a Bitterbug and Ice Crystal or buy it,30z,1
+15,Hot Drink,A drink that bestows temporary resistance to extreme cold.,Combine Hot Pepper and Bitterbug or buy it,25z,1
+16,Thawing Agent,A chemical agent that melts away the frozen tundra in the soul.,Combine Fire Herb and Rumblefish.,10z,1
+17,Psychoserum,Temporarily activates an psychic ability to sense Wyverns.,Store bought. Combine Catcus Flower and Thunderbug,30z,3
+18,Herbal Medicine,"Effectively cures poison, and restores a slight amount of Health.",Combine Cactus Flower and Bitterbug,25z,2
+19,Max Potion,"Restores Health to the maximum level, enabling a full recovery.",Combine Mega Nutrients and Dragon Toadstool. Common reward from Kirin quests,210z,3
+20,Ancient Potion,"Restores Health and Stamina to maximum levels, enabling a full recovery.",Check combine list,345z,5
+21,Energy Drink,Recovers Stamina and cures fatigue. Approved by the Guild.,Combine Sunset Herb and Honey,6z,2
+22,Lifepowder,Medicine created by combining Lifecrystals. Strong restorative power.,Combine Lifecrystals and Wyvern Claw.,315z,4
+23,Cricket,Energetic insect that works well as fishing bait.,"Any Bug Thicket, Gathering Quest Reward",1z,1
+24,Worm,Nightcrawler for fishing. Use 5 worms to raise soil fertility one level.,"any bug thicket, felyne rewards",2z,1
+25,Firefly,A firefly that's always glowing. Works well as fishing bait.,Any Bug Thicket,4z,2
+26,Frog,A Frog. Works well as fishing bait.,"Jungle, Old Desert, snowy mountains",15z,2
+27,Mega Fishing Fly,"A fly lure that causes a feeding frenzy, no matter what fish is biting.",Bug Thicket no.3 and 4.,3z,3
+28,Tuna Bait,Fishing bait that only tuna will eat.,Combine Worm and Yambug.,4z,2
+29,Arrowana Bait,Fishing bait that only arrowana will eat.,Combine Bughopper and Cricket.,7z,2
+30,Goldenfish Bait,Fishing bait that only goldenfish will eat.,Combine Firefly and Snakebee Larva.,30z,4
+31,Sunset Herb,A strange herb with a pleasant smell. Good for combining.,Jungle,2z,2
+32,Herb,A plant that restores a slight amount of Health.,"Snowy Mountains, Forest and Hills, Jungle",2z,1
+33,Antidote Herb,Field plant with antidotal qualities. Relying on it too heavily poses a risk.,Swamp,2z,1
+34,Fire Herb,A plant that has flammable properties.,"Desert, Volcano",4z,2
+35,Ivy,A lightweight and extremely strong plant.,"Snowy Mountains, Jungle, Forest & Hills",8z,1
+36,Sleep Herb,Plant with sleep-inducing qualities. Can be planted in the field.,Snowy Mountains,5z,1
+37,Sap Plant,A plant with leaves coated in sticky sap. Difficult to remove once attached.,"Snowy Mountains, Farm Field",2z,1
+38,Felvine,A Melynx favorite. They can't resist its charm.,"Plant seeds in the field, Melynx drop",1z,1
+39,Cactus Flower,"Contains antidotal substances, but has no effect by itself.","Desert, Plant seeds in the field",10z,2
+40,Hot Pepper,"Ignites a fire after only a single bite. Warms you up, but too hot to handle.","Desert, Volcano",4z,2
+41,Dosbiscus,"A large, beautifully coloured flowering plant foreign to this land.",Other Location...,20z,2
+42,Honey,Normal honey. Highly nutritious.,"Jungle, Forest & Hills, Great Forest, Snowy Mountains, Pokke Farm",45z,2
+43,Giant Corn,Gigantic corn that's hard to grow in this region. Packed with kernels.,Other Location...,500z,5
+44,Blue Mushroom,Rare mushroom with a power-enhancing effect.,"Any mushroom patch, Pokke Farm Mushroom Tree",2z,2
+45,Nitroshroom,Rare mushroom with the power to generate heat.,"Any mushroom patch, Pokke Farm Mushroom Tree+1",6z,2
+46,Parashroom,Mushroom that induces a paralysis effect.,"Any mushroom patch, Pokke Farm Mushroom Tree",15z,3
+47,Toadstool,A poisonus fungus. Perhaps it has other effects as well...,"Any mushroom patch, Pokke Farm Mushroom Tree",8z,2
+48,Exciteshroom,A mushroom with a very strange smell. What would happen if you ate it...?,"Any mushroom patch, Pokke Farm Mushroom Tree+1",18z,3
+49,Dragon Toadstool,A dangerous fungus said to draw the life out of people. Beware.,"Any mushroom patch, Pokke Farm Mushroom Tree+2",40z,3
+50,Spicy Mushroom,Special Spicy Mushroom that recovers a small amount of Stamina.,Combine Hot Pepper and Special Mushroom,54z,3
+51,Chaos Mushroom,Said to cause chaos. Its spores cause monsters to hallucinate.,Pokke Farm Mushroom Tree,40z,4
+52,Huskberry,An empty berry that can grow anywhere. Try planting it in the field.,"Forest and Hills, Jungle",1z,1
+53,Paintberry,Releases a smelly paint-like juice when broken. Can be planted.,Jungle,6z,1
+54,Power Seed,Temporarily raises Attack power. Short-lived effect if used raw. Plantable.,"Peddling Granny, Desert (Day(Area 6, Seeds or Herbs))",140z,2
+55,Armor Seed,Temporarily increases Defense when consumed. Very invigorating.,"Peddling Granny, Snowy Mountains (Area 6, Seeds)",110z,2
+56,Dragon Seed,Mysterious berry said to be hated by dragons.,Volcano,78z,2
+57,Scatternut,A nut that shatters to pieces when subjected to an impact.,Forest and Hills,4z,2
+58,Needleberry,Berry covered in needle-like thorns. Can be made into bullets. Plantable.,Forest and Hills,1z,1
+59,Bomberry,A berry that explodes when subjected to an impact.,Volcano,12z,2
+60,Frozen Berry,A completely frozen berry. Can provide relief from heat and recover Stamina.,Combine Tropical Berry with Ice Crystal,54z,3
+61,Red Seed,A strange red seed of unknown variety. Can be planted in the field.,Pokke Farm; Peddling Granny; Gathering Quest rewards,1z,2
+62,Green Seed,A strange green seed of unknown variety. Can be planted in the field.,Pokke Farm; Peddling Granny; Gathering Quest rewards,1z,2
+63,Yellow Seed,A strange yellow seed of unknown variety. Can be planted in the field.,Pokke Farm; Peddling Granny; Gathering Quest rewards,25z,4
+64,Stone,A small rock. Can be thrown.,Piles of Rocks and the first mining point in the farm.,1z,1
+65,Disk Stone,A disk-shaped stone,Regular to +2 Farm mining points. Low Rank Volcano,68z,4
+66,Iron Ore,Ore that can be smelted into metal and used for many different purposes.,Low ranked Volcano. Regular and +1 Pokke Farm mining points.,60z,4
+67,Earth Crystal,Crystallized remains of micro biotic organisms. A prized weapon abrasive.,All mining points except +2 in Pokke Farm. Low rank Swamp.,80z,4
+68,Machalite Ore,Better than Iron Ore. Used to make Machalite. Also called Sparrowstone.,Any mining site.,160z,5
+69,Dragonite Ore,Better than Machalite. Extremely valuable. Also called Dragonstone.,Low and High Rank Volcano. All mining points besides regular in Pokke Farm.,480z,5
+70,Carbalite Ore,"An experimental ore also called Spiritstone, it is superior to Dragonite.",+2 and +3 mining points in Pokke Farm. Also found in the High Rank volcano area.,680z,5
+71,Eltalite Ore,A newly discovered ore superior to Carbalite. Also called Kitestone,"- Mining Point +4 and Volcano spots in G-Rank- Old jungle In area 4,9,10 in G-rank",1280z,5
+72,Union Ore,Ore containing a metal that can fuse any other material together.,"Mining point +3 in Pokke Farm, high rank volcano quests area 4 and 6: very rare",1020z,5
+73,Mellanje Ore,A pliable yet durable ore that can fuse any material together. AKA Pidgeonstone,"Mining Point +4, G level Volcano",1920z,5
+74,Firestone,Combusts at room temp. Can only be mixed with suitable materials.,- Volcano (Areas 8 and 6)- Trenya's boat 300/500 points to volcano.,860z,5
+75,Firecell Stone,A magma-like ore. Only to be handled by trained hands. AKA Eagle's Eye.,Trenya's boat 1000 points to Volcano. High Ranked Volcano in area 6 or killing Akantor.,1720z,5
+76,Lightcrystal,Crystal with a dull glow. Extremely hard. It is used for tools in the armory.,Low and High ranked Swamp and pokke farm +2 and +3 mining point.,1150z,5
+77,Novacrystal,"Brightly glowing crystal. Extremely hard, it is used for tools in the armory.",Mining +3 in Pokke Farm and High Ranked Swamp Quests.,2440z,5
+78,Purecrystal,"100% pure and extremely hard, it's even used in workshop machinery.","Mining Point +4, and in rewards from G Lvl Fatalis quests.",7320z,5
+79,Antiseptic Stone,An unnatural Crystal with enhanced antiseptic qualities.,Earth Crystal + Bitterbug,183z,3
+80,Ice Crystal,Will not thaw at room temperature. Confirmed to increase ore density.,Low Rank Snowy Mountains.,60z,2
+81,Rainbow Ore,Beautiful ore. Colors and properties depend on many variables.,Low Rank Volcano area 8 3rd spot to the right with character's back to the crater. Mining point +3 in Pokke Farm.,960z,5
+82,Armor Stone,Ore with a unique reaction to heat. Can be combined to make an armor coating.,Pokke Farm mining spots and bomb mining or Buy at the item shop for fifteen hundred,100z,4
+83,Armor Sphere,Its unique reaction to heat can be used to increase armor strength.,Poke Farm mining. Combine Armor Stone + Machalite or Armor Stone + Killer Beetle.,80z,5
+84,Armor Sphere+,Dense and high quality. Treasured as a supplement to armor strength.,"Combine Armor Stone + Dragonite Ore, or Armor Stone + Hercudrome.",300z,5
+85,Hrd Armor Sphere,"Hard, high density Armor Sphere. Rare material used in high strength armor.","Pokke Farm, Desert, Volcano. Combine Armor Stone + Carbalite Ore, or Armor Stone + King Scarab",400z,5
+86,Hvy Armor Sphere,"Thick, dense Armor Sphere. Rarely obtained, it raises the bar on armor strength.",High ranked Hunting Quests.,600z,5
+87,Ryl Armor Sphere,"Radiant, majestic Armor Sphere. Very rare, it can greatly fortify armor.","Nearly any decent G-Rank Quest, and highest Pokke farm mining spot",500z,5
+88,Tru Armor Sphere,A limit-breaking Armor Sphere. It brings out the true power of an armor.,G-Rank Quests,700z,5
+89,Knife Mackerel,A fish with a dorsal fin hard enough to be used to sharpen weapons,Peddling Granny; Fishing Pier; Forest & Hills,45z,1
+90,Sushifish,A delicious fish that restores a small amount of Health when consumed.,Fishing Pier; Forest & Hills,45z,1
+91,Sleepyfish,A fish with sleep-inducing properties,Most Areas,45z,2
+92,Pin Tuna,A fish with a jaw covered in tiny needle-like spikes,Most Areas,50z,1
+93,Rumblefish,A fish that cracks open when killed,Peddling Granny; Fishing Pier; Most Areas,15z,2
+94,Scatterfish,A fish that shatters to pieces when killed,Peddling Granny; Fishing Pier,150z,4
+95,Burst Arrowana,A fish that ruptures open when killed.,Fishing Pier,45z,4
+96,Bomb Arrowana,A fish that explodes when killed,Fishing Pier +1/2,135z,4
+97,Glutton Tuna,"Will devour anything in its path, and sometimes these remain inside",Fishing Pier,13z,4
+98,Gastronome Tuna,"An enormous Glutton Tuna. Will eat anything, no matter the size.","Desert, jungle",23z,5
+99,Speartuna,A rare and valuable giant-sized fish. What could it be used for...?,Forest & Hills and jungle; Casting Machine,1000z,5
+100,Small Goldenfish,"A curiously small, rare, gold fish. Commands a high price",Pokke Farm; Rare Reward from Battle Training,500z,4
+101,Ancient Fish,A precious fish which can be almost entirely used as material.,Casting Machine,1500z,5
+102,Springnight Carp,A species of carp whose arrival signals the start of breeding season.,Pokke Farm,60z,4
+103,Tailed Frog,Rare frog that retained its tail. This happens under special conditions.,Casting Machine,500z,5
+104,Insect Husk,The remains of a dead insect.,"Insect Thickets, Spiderwebs, Bee Hives",1z,1
+105,Yambug,Yam-like bug that exudes a scent that drives tuna wild. Great fishing bait.,"Any Bug Thicket, Pokke Farm",3z,1
+106,Bughopper,An insect that exudes a scent that drives arrowana wild. Great fishing bait.,Any Bug Thicket,6z,1
+107,Snakebee Larva,A snake-like larva with a scent that Goldenfish just love. Great fishing bait.,"Pokke Farm Bee Hive, Maybe in some Bug Thickets",30z,1
+108,Godbug,An insect said to live for a thousand years.,"Pokke Farm 2nd Thicket Upgrade, Some Bug Thickets",210z,4
+109,Bitterbug,Contains a bitter essence. Has a 50% chance of curing poison if consumed.,Any Bug Thicket,2z,1
+110,Flashbug,An insect that emits a powerful flash when it dies.,Any Bug Thickets or old lady,48z,2
+111,Thunderbug,An insect that emits electricity when struck. Has many applications.,"Pokke Farm Bug Thicket Upgrade, mostly found in desert, dropped by Great Thunderbugs, SnowyMountains (area 1)",350z,4
+112,Carpenterbug,Viscous body fluids and sharp jaws make this insect an artisan.,"Pokke Farm, Some Bug Thickets",120z,4
+113,King Scarab,"The Royal Class of the scarabs, with a hard shell and lustrous wings.","High-Ranked Forest and Hills, High-Ranked Desert, Higher Bug Thickets",800z,5
+114,Emperor Cricket,Exceptionally strong shell makes it a good counterpart to soft materials.,Other Location...,1200z,5
+115,Killer Beetle,Insect with a hard shell and dazzling wings. Used as an abrasive.,"Pokke Farm 2nd Thicket Upgrade, Some Bug Thickets",200z,4
+116,Hercudrome,Said to be the world's strongest bug. Widely used in making equipment.,"High-Ranked Mountains, Volcano Field 2, and the tower",540z,5
+117,Rare Scarab,"A rare, prized insect. Used to increase the power of metal objects.",G-Rank Volcano Area 2 / G-Rank Tower / Higher Bug Thickets,1000z,5
+118,Phantom Butterfly,"Rarely seen by humans, its wings shimmer like precious gems.","4th Thicket upgrade, Bug tree (use black or gold hammer), Forest and hills G level, Tower G level.",1800z,5
+119,Rainbow Insect,Beautiful insect material. Colors and properties depend on many variables.,Volcano Field 2 g-rank desert area 2,640z,5
+120,Great Hornfly,"Its giant horn and massive shell give it a rare, butterfly-like beauty.","Pokke Farm 2nd Thicket Upgrade, Some Bug Thickets",60z,5
+121,Great Ladybug,Giant insect with a very hard shell. Protects crops by eating harmful pests.,"Pokke Farm 2nd Thicket Upgrade, Some Bug Thickets",60z,5
+122,Royal Rhino,Beetle with a jewel like shine and prized by collectors .,Ancient Tower at area 3 and G-Rank Bug Gathering in the Volcano Area 1 or 2.,200z,2
+123,Divine Rhino,Beetle that glows as if from the heavens. Loved by collectors.,At Mountains Area 2 and Volcano Area 2 G-Rank and G-Rank Swamp Area 8 also G-Rank Desert Area 1,1000z,1
+124,Screamer,"A monster's internal organ. If broken, it emits a shrill sound.",Other Location...,15z,4
+125,Poison Sac,A monster's internal organ. Contains a lethal poison.,Other Location...,96z,4
+126,Toxin Sac,"A monster's internal organ filled with potent toxin. Dangerous, even to touch.",Other Location...,192z,5
+127,DeadlyPoisonSac,A monster's internal organ filled with a most lethal toxin. Use extreme care.,Other Location...,1920z,5
+128,Paralysis Sac,A monster's internal organ filled with a paralyzing neurotoxin.,Other Location...,120z,4
+129,Sleep Sac,A monster's internal organ filled with a powder that causes sleep when inhaled.,Other Location...,340z,4
+130,Coma Sac,A monster's internal organ filled with a powder that can induce a coma.,Other Location...,2040z,5
+131,Flame Sac,A monster's internal organ. Contains a very flammable powder.,Other Location...,240z,4
+132,Inferno Sac,A monster's internal organ filled with a powder that ignites when touched.,Other Location...,480z,5
+133,Blazing Fire Sac,A monster's internal organ filled with an explosive powder. Watch out!,Other Location...,1920z,5
+134,Electro Sac,The internal organ of a Khezu. Releases electricity if disturbed.,Other Location...,480z,4
+135,Thunder Sac,The internal organ of a Khezu. Contains unequaled electrical energy.,Other Location...,960z,5
+136,Lightning Sac,A monster's internal organ charged with electricity & the rumbling of thunder.,Other Location...,2400z,5
+137,Sm Monster Bone,"A very useful material, indispensable for both hunting and daily life.",Other Location...,10z,3
+138,Med Monster Bone,Has more uses than small bone. Usually carved to make an item.,Other Location...,210z,4
+139,Lg Monster Bone,Indispensable for crafting one-piece items. Bone can be connected to shell,Other Location...,440z,5
+140,Monster Bone+,Top quality monster bone. Hard to find but a nearly unbreakable material,Other Location...,560z,5
+141,Hrd Monster Bone,"A monster's most unique bone. Priceless strength, but difficult to work.",Other Location...,660z,5
+142,Hvy Monster Bone,Strong bone from only the toughest of wyverns. It's very thick and heavy.,Other Location...,1320z,5
+143,Eldr Dragon Bone,You can sense the elder dragon's dignity from this massive bone alone.,Other Location...,880z,5
+144,BigEDragonBone,Top-notch bone from a large dragon. Feels like it could last forever.,Other Location...,2200z,5
+145,Mystery Bone,A well-worn bone. Not sturdy enough to use in combination.,Other Location...,1z,1
+146,Unknown Skull,"Animal skull. So worn and weathered, it's unidentifiable.",Other Location...,120z,4
+147,Master's Skull,The remains of a top hunter who once let his guard down.,Other Location...,1250z,5
+148,Bone,"Just a bone. So worn and weathered, it's unidentifiable.",Other Location...,15z,1
+149,RobustWyvernBone,A bird wyvern's robust bone. It's easy to work with and is very durable.,Other Location...,800z,5
+150,Brute Bone,The stout bone of a brutish monster. An easy to work with material,Other Location...,20z,3
+151,Giant Bone,"A fat, large bone. Can be cut in the workshop to make crafting material.",Other Location...,150z,4
+152,Stout Bone,"The stout, hard bone of a brute. Rigid, it is priceless for crafting.",Other Location...,600z,5
+153,Massive Bone,"An especially strong bone from a brute, Possesses an invaluable strength.",Other Location...,1200z,5
+154,Sm Bone Husk,Bone ammunition casing. Stronger than a Huskberry ammunition casing.,Other Location...,3z,2
+155,Lg Bone Husk,Bone ammunition casing that can withstand powerful explosions.,Other Location...,5z,3
+156,Sinister Cloth,Found long ago in the tomb of a king from a forgotten desert land.,Other Location...,480z,5
+157,Wyverian Harp,"A legendary Wyverian Harp. Originally a weapon, it is in need of some repairs.",Other Location...,620z,5
+158,Lost Umbrella,Noblewoman's umbrella. Seems to have hidden features. Try fixing it.,Other Location...,1240z,5
+159,Ruststone,"Looks like a lump of dirt, but it's actually rusted metal. Try polishing it...",Other Location...,180z,5
+160,Flat Ruststone,"Looks like a lump of dirt, but it's actually rusted metal. Try polishing it...",Other Location...,180z,5
+161,Large Ruststone,"Looks like a lump of dirt, but it's actually rusted metal. Try polishing it...",Other Location...,180z,5
+162,Small Ruststone,"Looks like a lump of dirt, but it's actually rusted metal. Try polishing it...",Other Location...,180z,5
+163,Ruststone Rod,"Looks like a lump of dirt, but it's actually rusted metal. Try polishing it...",Other Location...,180z,5
+164,Ancient Stone,Appears to be some kind of fossilized metal. Maybe a treasure if polished.,Other Location...,360z,5
+165,AncientFlatstone,Appears to be some kind of fossilized metal. Maybe a treasure if polished.,Other Location...,360z,5
+166,Lg Ancient Stone,Appears to be some kind of fossilized metal. Maybe a treasure if polished.,Other Location...,360z,5
+167,Sm Ancient Stone,Appears to be some kind of fossilized metal. Maybe a treasure if polished.,Other Location...,360z,5
+168,Ancient StoneRod,Appears to be some kind of fossilized metal. Maybe a treasure if polished.,Other Location...,360z,5
+169,Steel Egg,A glittering Steel Egg. Incredibly expensive and rare. No Use to a hunter.,Other Location...,1000z,5
+170,Silver Egg,A glittering Silver Egg. Incredibly expensive and rare. No Use to a hunter.,Other Location...,10000z,5
+171,Golden Egg,A glittering Gold Egg. Incredibly expensive and rare. No Use to a hunter.,Other Location...,20000z,5
+172,Kut-Ku Coin,Given on the whim of an esteemed instructor upon defeating a Yian Kut-Ku.,Other Location...,100z,4
+173,Congalala Coin,Given on the whim of an esteemed instructor upon defeating a Congalala.,Other Location...,200z,4
+174,Khezu Coin,Given on the whim of an esteemed instructor upon defeating a Khezu.,Other Location...,300z,4
+175,Daimyo Coin,Given on the whim of an esteemed instructor upon defeating a Daimyo Hermitaur.,Other Location...,400z,4
+176,Blangonga Coin,Given on the whim of an esteemed instructor upon defeating a Blangonga.,Other Location...,500z,4
+177,Yian Garuga Coin,Given on the whim of an esteemed instructor upon defeating a Yian Garuga.,Other Location...,600z,4
+178,Tigrex Coin,Given on the whim of an esteemed instructor upon defeating a Tigrex.,Other Location...,700z,5
+179,Diablos Coin,Given on the whim of an esteemed instructor upon defeating a Diablos.,Other Location...,800z,5
+180,Gravios Coin,Given on the whim of an esteemed instructor upon defeating a Gravios.,Other Location...,900z,5
+181,Kirin Coin,Given on the whim of an esteemed instructor upon defeating a Kirin.,Other Location...,1000z,5
+182,Fire Coin,Given on the whim of an esteemed instructor upon defeating a Fire Wyvern.,Other Location...,900z,5
+183,Cephadrome Coin,Given on the whim of an esteemed instructor upon defeating a Cephadrome.,Other Location...,300z,4
+184,Plesioth Coin,Given on the whim of an esteemed instructor upon defeating a Plesioth.,Other Location...,500z,4
+185,Shogun Coin,Given on the whim of an esteemed instructor upon defeating a Shogun Ceanataur.,Other Location...,700z,4
+186,Rajang Coin,Given on the whim of an esteemed instructor upon defeating a Rajang.,Other Location...,1100z,5
+187,BlackBeltCoinG,Nihilistic black coin. Conferred upon completion of G-Level training.,Other Location...,1500z,5
+188,Expert Coin G,Glistening yellow coin. Conferred upon completion of G-Level training.,Other Location...,2000z,5
+189,Warrior Coin G,Refreshing blue coin. Conferred upon completion of G-Level training.,Other Location...,2500z,5
+190,Legend Coin G,Enigmatic crimson coin. Conferred upon completion of G-Level training.,Other Location...,5000z,5
+191,Commendation,Ticket awarded for a display of bravery. Try collecting them.,Other Location...,0z,5
+192,Commendation G,Ticket awarded for a display of great bravery. Try collecting them.,Other Location...,0z,5
+193,Commendation S,Ticket awarded for a display of superb bravery. Try collecting them.,Other Location...,0z,5
+194,Pawprint Stamp,"The paper currency of the Lynian race, stamped with a Felyne paw. Unreadable.",Other Location...,0z,5
+195,Pokke Ticket,Received for contributions to Pokke Village. If you give it to the crafter...,Other Location...,0z,4
+196,Pokke Ticket+,Received for becoming the true Hero of Pokke. If you give it to the crafter...,Other Location...,0z,5
+197,FlynMealPassReg,Ticket for a standard Felyne dinner. If traded at the crafting shop...,Other Location...,0z,4
+198,FlynMealPassPlus,Ticket for a high class Felyne dinner. If traded at the crafting shop...,Other Location...,0z,5
+199,VeggieElderTcket,Earned by hunting with friends. Try trading it with a Veggie Elder.,Other Location...,0z,4
+200,VeggieElderTckt+,Earned by hunting with friends. Check the Card List. Every 10th friendship lvl gives you one,Gathering Hall,0z,4
+201,VegElderTcktBrz,Earned by hunting with friends. Try trading it with a Veggie Elder.,Gathering Hall,0z,4
+202,VegElderTcktSlv,If you trade this with a Veggie Elder you may get a rare item...,Gathering Hall,0z,4
+203,VegElderTckGld,If you trade this with a Veggie Elder you may get a superior item...,Other Location...,0z,4
+204,VegElderTckSky,If you trade this with a Veggie Elder you may get an extraordinary item...,Other Location...,0z,5
+205,Blackbelt Ticket,Earned by overcoming difficult training. Maybe you should collect them?,Other Location...,0z,5
+206,Expert Ticket,Earned by overcoming extreme training. Maybe you should collect them?,Other Location...,0z,4
+207,Hero of Kkto Bio,Recounts Hero of Kokoto's exploits. Includes plans for the Hero's sword.,Other Location...,0z,5
+208,Hero of JumboBio,Recounts Hero of Jumbo's exploits. Includes plans for the Hero's sword.,Other Location...,0z,5
+209,Elder Thank You,Given to the one who saved the town from fear. A recipe is on the back.,Other Location...,0z,5
+210,Elder Thnk You+,Given to the one who saved the town from calamity. A recipe is on the back.,Other Location...,0z,5
+211,Hunter's Ticket,Written by the Hero of Kokoto and given only to full-fledged hunters.,Other Location...,0z,5
+212,Hunter Soul Tkt,An honor for successful hunters. Symbolizes a hunter's true soul.,Other Location...,0z,5
+213,Puppet Ticket,"A ticket stamped by two Felyne paws. At your service, nya!",Other Location...,0z,5
+214,SpecPuppetTicket,"A Guild-stamped, hand-made ticket. It was made with a lot of heart.",Other Location...,0z,5
+215,Hypno Ticket,Stamped proof of hunting a Hypnocatrice and finishing a hard quest.,Other Location...,0z,5
+216,Lavasioth Ticket,Stamped proof of hunting a Lavasioth and finishing a hard quest.,Other Location...,0z,5

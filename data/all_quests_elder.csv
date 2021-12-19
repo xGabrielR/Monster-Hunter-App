@@ -1,0 +1,97 @@
+,title,goal,area,time,fee,reward,required,notes
+0,Mountain Herb Picking,Deliver 5 Mountain Herbs.,Snowy Mountains (Day),50mins,0z,300z,Not Required,No Info
+1,An Anteka in the Snow,Deliver 3 Anteka Antlers.,Snowy Mountains (Day),50mins,0z,300z,Not Required,No Info
+2,Hunt the Carnivore,Slay 5 Giaprey.,Snowy Mountains (Day),50mins,0z,300z,Required for next Urgent,No Info
+3,Sinking Feeling,Deliver 3 Popo Tongues.,Snowy Mountains (Night),20mins,0z,300z,Required for next Urgent,No Info
+4,Slay the Blangos,Slay 3 Blangos.,Snowy Mountains (Night),50mins,0z,300z,Required for next Urgent,No Info
+5,Gathering ,Deliver the Paw Pass Ticket,Snowy Mountains (Day),50mins,0z,12z,Not Required,No Info
+6,Gathering ,Deliver the Paw Pass Ticket,Jungle (Day),50mins,0z,12z,Not Required,No Info
+7,Gathering ,Deliver the Paw Pass Ticket,Desert (Day),50mins,0z,12z,Not Required,No Info
+8,The Carnivorous Leader,Hunt the Giadrome,Snowy Mountains (Day),50mins,150z,900z,Not Required,No Info
+9,Reckless Bulldrome Hunter,Hunt the Bulldrome,Snowy Mountains (Day),50mins,200z,1200z,Required for next Urgent,No Info
+10,Slay the Giaprey,Slay 20 Giaprey,Snowy Mountains (Day),50mins,150z,900z,Not Required,No Info
+11,The Pack of Blangos,Slay 5 Blango,Snowy Mountains (Night),50mins,150z,900z,Not Required,No Info
+12,The Taboo of Negligence,Deliver 15 Mountain Herbs,Snowy Mountains (Night),20mins,150z,900z,Not Required,No Info
+13,Hunt Down the Velocidrome,Hunt the Velocidrome,Jungle (Day),50mins,150z,900z,Not Required,No Info
+14,Jungle Menace,Hunt the Yian Kut-Ku,Jungle (Night),50mins,250z,1500z,Required for next Urgent,No Info
+15,Rarest of the Rare Beasts,Hunt the Congalala,Jungle (Night),50mins,250z,1500z,Required for next Urgent,No Info
+16,Hunt the Rare Forest Congas,Slay 10 Congas,Jungle (Day),50mins,150z,900z,Not Required,No Info
+17,Attack of the Giant Bugs,Slay 20 Vespoids,Jungle (Day),50mins,150z,900z,Not Required,No Info
+18,Collect to Combine,Deliver 10 Special Mushrooms,Jungle (Day),50mins,150z,900z,Not Required,No Info
+19,Hunt the Gendrome,Hunt the Gendrome,Desert (Day),50mins,150z,900z,Not Required,No Info
+20,The Land Shark,Hunt the Cephadrome,Desert (Day),50mins,200z,1200z,Not Required,No Info
+21,Liver of Legend,Deliver 3 Piscine Livers,Desert (Day),50mins,200z,1200z,Required for next Urgent,No Info
+22,Gone Fishin,Deliver 2 Goldenfish,Desert (Day),50mins,150z,900z,Not Required,No Info
+23,Gathering ,Deliver the Paw Pass Ticket,Swamp(Day),50mins,0z,12z,Not Required,No Info
+24,Gathering ,Deliver the Paw Pass Ticket,Forest & Hills (Day),50mins,0z,12z,Not Required,No Info
+25,Shadow in the Snow,Hunt the Khezu,Snowy Mountains (Day),50mins,350z,2100z,Not Required,No Info
+26,The Subterranean Glutton,Deliver 3 Khezu Whelps,Snowy Mountains (Night),50mins,200z,1200z,Not Required,No Info
+27,Blango Slaying Tactics,Slay 10 Blangos,Snowy Mountains (Night),50mins,150z,900z,Required for next Urgent,No Info
+28,Aim for the Jungle Crab,Hunt the Daimyo Hermitaur,Jungle (Night),50mins,300z,1800z,Not Required,"Clear ""The Lurking Desert Giant"" to unlock"
+29,Master of the Giant Lake,Hunt the Green Plesioth,Jungle (Night),50mins,400z,2400z,Not Required,"Clear ""Water Wyvern in the Desert"" to unlock"
+30,A Swarm of Hermitaurs,Slay 10 Hermitaurs,Jungle (Day),50mins,150z,900z,Not Required,No Info
+31,The Purple Poison Menace,Hunt the Purple Gypceros,Jungle (Night),50mins,350z,2100z,Not Required,"Clear ""Gypceros: Venomous Terror"" to unlock"
+32,The Lurking Desert Giant,Hunt the Daimyo Hermitaur,Desert (Day),50mins,300z,1800z,Required for next Urgent,No Info
+33,Water Wyvern in the Desert,Hunt the Plesioth,Desert (Day),50mins,350z,2100z,Not Required,No Info
+34,Slay the Genprey,Slay 20 Genprey,Desert (Day),50mins,150z,900zz,Not Required,No Info
+35,Gypceros,Hunt the Gypceros,Swamp (Night),50mins,300z,1800z,Required for next Urgent,No Info
+36,Attack of the Blue Kut,Hunt the Blue Yian Kut-Ku,Swamp (Night),50mins,300z,1800z,Not Required,No Info
+37,The Mischief,Hunt the Congalala,Swamp (Day),50mins,250z,1500z,Not Required,No Info
+38,Fang of the Iodrome,Hunt the Iodrome,Swamp (Day),50mins,200z,1200z,Not Required,No Info
+39,Slay the Great Kut,Hunt the Yian Kut-Ku,Forest & Hills (Day),50mins,250z,1500z,Not Required,No Info
+40,A Killing from Mushrooms,Deliver 10 Special Mushrooms,Forest & Hills (Day),50mins,150z,900z,Required for next Urgent,No Info
+41,Gathering ,Deliver the Paw Pass Ticket,Volcano (Day),50mins,0z,12z,Not Required,No Info
+42,The Ruler of the Snow,Hunt the Blangonga,Snowy Mountains (Day),50mins,500z,3000z,Not Required,No Info
+43,Red Shadow in the Swampland,Hunt the Red Khezu,Swamp (Night),50mins,450z,2700z,Not Required,No Info
+44,The Lone Black Garuga,Hunt the Yian Garuga,Jungle (Night),50mins,600z,3600z,Not Required,No Info
+45,Twin Velocidrome,Hunt 2 Velocidrome,Jungle (Day),50mins,250z,1500z,Not Required,No Info
+46,Attack of the Giant Bugs,Slay 20 Hornetaur,Jungle (Night),50mins,200z,1200z,Not Required,No Info
+47,Battle of the Blos,Hunt the Monoblos,Desert (Night),50mins,500z,3000z,Required for next Urgent,No Info
+48,The Silver Horn,Hunt the White Monoblos,Desert (Night),50mins,600z,3600z,Not Required,"Beat ""Battle of the Blos"" Quest"
+49,Supreme Ruler of the Swamp,Hunt the Shogun Ceanataur,Swamp (Day),50mins,500z,3000z,Not Required,"Beat ""Commander in the Flames"" Quest"
+50,Trapped by Yian Kut,Hunt the Yian Kut-Ku and Blue Yian Kut-Ku,Swamp (Night),50mins,500z,3000z,Not Required,No Info
+51,The Ioprey leader,Hunt the Iodrome.,Volcano (Day),50mins,300z,1800z,Not Required,No Info
+52,Basarios,Hunt the Basarios.,Volcano (Day),50mins,400z,2400z,Required for next Urgent,No Info
+53,Commander in the Flames,Hunt the Shogun Ceanataur,Volcano (Night),50mins,500z,3000z,Required for next Urgent,No Info
+54,Ioprey Hunting,Slay 20 loprey,Volcano (Night),50mins,200z,1200z,Not Required,No Info
+55,A Band of Ceanataurs,Slay 10 Ceanataur,Volcano (Day),50mins,200z,1200z,Not Required,No Info
+56,More Coal Please,Deliver 15 Pieces of Coal,Volcano (Day),50mins,200z,1200z,Required for next Urgent,No Info
+57,The Frozen Dictator,Slay the Kushala Daora,Snowy Mountains (Night),50mins,750z,4500z,Not Required,No Info
+58,The Elder Dragon of Wind,Slay the Kushala Daora,Jungle (Night),50mins,750z,4500z,Not Required,"Beat ""The Frozen Dictator"" to unlock"
+59,Hermitaur Buffet,Slay 20 Hermitaurs,Arena,50mins,250z,1500z,Not Required,No Info
+60,Absolute Power,Hunt the Tigrex,Snowy Mountains (Night),50mins,750z,4500z,Not Required,No Info
+61,The Legendary Kirin,Hunt the Kirin,Snowy Mountains (Night),50mins,750z,4500z,Not Required,No Info
+62,Two Roars in the Snow,Hunt 2 Blangongas,Snowy Mountains (Day),50mins,850z,5100z,Not Required,No Info
+63,The Poison Siege ,Hunt the Gypceros and Purple Gypceros,Jungle (Night),50mins,600z,3600z,Required for next Urgent,No Info
+64,The Tigrex,Hunt the Tigrex,Desert (Day),50mins,750z,4500z,Not Required,No Info
+65,The Runaway Diablos ,Hunt the Diablos,Desert (Day),50mins,700z,4200z,Required for next Urgent,No Info
+66,The Fierce Black Horn,Hunt the Black Diablos,Desert (Night),50mins,800z,4800z,Not Required,No Info
+67,Ultimate Crab Dinner ,Hunt 2 Daimyo Hermitaurs,Desert (Night),50mins,600z,3600z,Required for next Urgent,No Info
+68,Black Rock in the Swamp,Hunt the Black Gravios,Swamp (Night),50mins,800z,4800z,Not Required,No Info
+69,Seeking the Strange Mask,Slay 5 Shakalakas,Forest & Hills,50mins,500z,3000z,Not Required,No Info
+70,Terror of the Gravios ,Hunt the Gravios,Volcano (Day),50mins,700z,4200z,Required for next Urgent,No Info
+71,Check the Ancient Tower,Slay 10 Remobras,Tower,50mins,500z,3000z,Not Required,No Info
+72,The Empress,Slay the Lunastra,Volcano (Day),50mins,900z,5400z,Not Required,No Info
+73,Overseer of the Ancients,Slay the Lunastra,Tower,50mins,900z,5400z,Not Required,No Info
+74,The Elder Dragon of Mist,Slay the Chameleos,Forest & Hills,50mins,850z,5100z,Not Required,No Info
+75,Towards the Silence,Slay the Chameleos,Swamp (Day),50mins,850z,5100z,Not Required,No Info
+76,Small Shadow over the Swamp,Hunt the Khezu,Swamp (Night),50mins,600z,3600z,Not Required,No Info
+77,Congalala Territorial Fight,Hunt 2 Congalalas,Swamp (Day),50mins,700z,4200z,Not Required,No Info
+78,A Troublesome Pair,Hunt the Rathalos and Rathian,Forest & Hills (Day),50mins,1400z,8400z,Not Required,No Info
+79,Dual Plesioth,Hunt the Plesioth and Green Plesioth,Jungle (Day),50mins,750z,4500z,Not Required,No Info
+80,Pink Dance in the Jungle,Hunt the Pink Rathian,Jungle (Night),50mins,750z,4500z,Required for next Urgent,No Info
+81,Four Horns,Hunt the Diablos and Black Diablos,Desert (Night),50mins,1650z,9900z,Required for next Urgent,No Info
+82,Emperor of Flame,Slay the Teostra,Volcano (Night),50mins,1500z,6000z,Not Required,No Info
+83,A Sun with Fangs,Slay the Teostra,Desert (Day),50mins,1500z,6000z,Not Required,"Clear ""Emperor of Flame"" to unlock"
+84,The Shogun,Hunt 2 Shogun Ceanataurs,Volcano (Day),50mins,1500z,6000z,Not Required,No Info
+85,Attack of the Rathalos,Hunt the Azure Rathalos,Forest & Hills (Day),50mins,800z,4800z,Required for next Urgent,No Info
+86,A State of Crisis,Kill or Repel Shen Gaoren,Town,30mins,1500z,9000z,Not Required,No Info
+87,The Final Invitation,Hunt 2 Rajang,Great Arena,50mins,3500z,21000z,Not Required,Clear all Village Elder Quests.
+88,A Giant Dragon Invades,Kill or Repel Lao-Shan Lung,Fortress,35mins,1500z,9000z,Not Required,"Clear ""A State of Crisis!"" to unlock"
+6,The Carnivorous Leader,Hunt the Giadrome.,Snowy Mountains (Day),50mins,150z,900z,Urgent,Unlocks LV★★ quests
+26,Shadow in the Snow,Hunt the Khezu,Snowy Mountains (Day),50mins,350z,2100z,Urgent,Unlocks LV★★★ quests
+46,The Ruler of the Snow,Hunt the Blangonga,Snowy Mountains (Day),50mins,500z,3000z,Urgent,Unlocks LV★★★★ quests
+67,Absolute Power,Hunt the Tigrex,Snowy Mountains (Night),50mins,750z,4500z,Urgent,Unlocks LV★★★★★ quests
+87,Troublesome Pair,Hunt the Rathalos and Rathian,Forest & Hills (Day),50mins,1400z,8400z,Urgent,Unlocks LV★★★★★★ quests
+100,A State of Crisis!,Kill or Repel Shen Gaoren,Town,30mins,1500z,9000z,Urgent,"Unlocks the second Urgent ""Secret Request: Hypnocatrice"
+101,Secret Request: Hypnocatrice,Hunt the Hypnocatrice,Great Forest (Day),50mins,1200z,7200z,Urgent,Unlocks LV 7★ (Felyne Elder) Quests

@@ -1,4 +1,4 @@
-,name,jp_name,class,element,weak,generation
+id,name,jp_name,class,element,weak,generation
 0,Felyne,アイルー(Airū),Lynian,"Fire, Water","Thunder, Ice",First
 1,Melynx,メラルー(Merarū),Lynian,"Fire, Water","Thunder, Ice",First
 2,Shakalaka,チャチャブー(Chachabū),Lynian,"Sleep, Poison","Poison, Ice",Second
@@ -70,7 +70,7 @@
 68,Rajang,ラージャン,Fanged Beast,Thunder,"Ice, Earth",Second
 69,Furious Rajang,激昂したラージャン,Fanged Beast,Thunder,"Ice, Earth",Second
 70,Kirin,キリン,Elder Dragon,Thunder,"Fire, Water",First
-71,Kushala Daora,クシャルダオラ,Elder Dragon,"nd Gen, MHGen","Thunder, Fire",Second
+71,Kushala Daora,クシャルダオラ,Elder Dragon,"Dragon, Ice","Thunder, Fire",Second
 72,Rusted Kushala Daora,錆びたクシャルダオラ,Elder Dragon,"Dragon, Ice","Water, Dragon",Second
 73,Chameleos,オオナズチ,Elder Dragon,"Dragon, Water","Fire, Thunder",Second
 74,Lunastra,ナナ・テスカトリ,Elder Dragon,"Fire, Dragon","Dragon, Ice",Second

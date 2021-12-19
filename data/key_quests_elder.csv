@@ -1,0 +1,30 @@
+id,title,goal,area,time,fee,reward,required,notes,star
+2,Hunt the Carnivore,Slay 5 Giaprey.,Snowy Mountains (Day),50mins,0z,300z,Required for next Urgent,No Info,1
+3,Sinking Feeling,Deliver 3 Popo Tongues.,Snowy Mountains (Night),20mins,0z,300z,Required for next Urgent,No Info,1
+4,Slay the Blangos,Slay 3 Blangos.,Snowy Mountains (Night),50mins,0z,300z,Required for next Urgent,No Info,1
+9,Reckless Bulldrome Hunter,Hunt the Bulldrome,Snowy Mountains (Day),50mins,200z,1200z,Required for next Urgent,No Info,2
+14,Jungle Menace,Hunt the Yian Kut-Ku,Jungle (Night),50mins,250z,1500z,Required for next Urgent,No Info,2
+15,Rarest of the Rare Beasts,Hunt the Congalala,Jungle (Night),50mins,250z,1500z,Required for next Urgent,No Info,2
+21,Liver of Legend,Deliver 3 Piscine Livers,Desert (Day),50mins,200z,1200z,Required for next Urgent,No Info,2
+27,Blango Slaying Tactics,Slay 10 Blangos,Snowy Mountains (Night),50mins,150z,900z,Required for next Urgent,No Info,3
+32,The Lurking Desert Giant,Hunt the Daimyo Hermitaur,Desert (Day),50mins,300z,1800z,Required for next Urgent,No Info,3
+35,Gypceros,Hunt the Gypceros,Swamp (Night),50mins,300z,1800z,Required for next Urgent,No Info,3
+40,A Killing from Mushrooms,Deliver 10 Special Mushrooms,Forest & Hills (Day),50mins,150z,900z,Required for next Urgent,No Info,3
+47,Battle of the Blos,Hunt the Monoblos,Desert (Night),50mins,500z,3000z,Required for next Urgent,No Info,4
+52,Basarios,Hunt the Basarios.,Volcano (Day),50mins,400z,2400z,Required for next Urgent,No Info,4
+53,Commander in the Flames,Hunt the Shogun Ceanataur,Volcano (Night),50mins,500z,3000z,Required for next Urgent,No Info,4
+56,More Coal Please,Deliver 15 Pieces of Coal,Volcano (Day),50mins,200z,1200z,Required for next Urgent,No Info,4
+63,The Poison Siege ,Hunt the Gypceros and Purple Gypceros,Jungle (Night),50mins,600z,3600z,Required for next Urgent,No Info,5
+65,The Runaway Diablos ,Hunt the Diablos,Desert (Day),50mins,700z,4200z,Required for next Urgent,No Info,5
+67,Ultimate Crab Dinner ,Hunt 2 Daimyo Hermitaurs,Desert (Night),50mins,600z,3600z,Required for next Urgent,No Info,5
+70,Terror of the Gravios ,Hunt the Gravios,Volcano (Day),50mins,700z,4200z,Required for next Urgent,No Info,5
+80,Pink Dance in the Jungle,Hunt the Pink Rathian,Jungle (Night),50mins,750z,4500z,Required for next Urgent,No Info,6
+81,Four Horns,Hunt the Diablos and Black Diablos,Desert (Night),50mins,1650z,9900z,Required for next Urgent,No Info,6
+85,Attack of the Rathalos,Hunt the Azure Rathalos,Forest & Hills (Day),50mins,800z,4800z,Required for next Urgent,No Info,6
+6,The Carnivorous Leader,Hunt the Giadrome.,Snowy Mountains (Day),50mins,150z,900z,Urgent,Unlocks LV★★ quests,1
+26,Shadow in the Snow,Hunt the Khezu,Snowy Mountains (Day),50mins,350z,2100z,Urgent,Unlocks LV★★★ quests,2
+46,The Ruler of the Snow,Hunt the Blangonga,Snowy Mountains (Day),50mins,500z,3000z,Urgent,Unlocks LV★★★★ quests,3
+67,Absolute Power,Hunt the Tigrex,Snowy Mountains (Night),50mins,750z,4500z,Urgent,Unlocks LV★★★★★ quests,4
+87,Troublesome Pair,Hunt the Rathalos and Rathian,Forest & Hills (Day),50mins,1400z,8400z,Urgent,Unlocks LV★★★★★★ quests,5
+100,A State of Crisis!,Kill or Repel Shen Gaoren,Town,30mins,1500z,9000z,Urgent,"Unlocks the second Urgent ""Secret Request: Hypnocatrice",6
+101,Secret Request: Hypnocatrice,Hunt the Hypnocatrice,Great Forest (Day),50mins,1200z,7200z,Urgent,Unlocks LV 7★ (Felyne Elder) Quests,6
