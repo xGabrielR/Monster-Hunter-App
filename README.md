@@ -13,6 +13,8 @@
 </ul>
   
 <h2>2. Solution Strategy & Assumptions</h2>
+<h3>Assumptions</h3>
+<p>The game never get new updates and easy to get data, but some of this data haved a last update on 2012, having some inconsistents.</p>
 <h3>First CRISP Cycle</h3>
 <ul>
   <dl>
@@ -22,6 +24,8 @@
       <dd>Used jp and en wiki of monster hunter freedom unite.</dd>
     <dt>Data Cleaning.</dt>
       <dd>Simple regex applications and pandas manipulation using wiki and real game to fill some na or inconsistent values.</dd>
+    <dt>Data Storing.</dt>
+      <dd>Only on CSV files fot app.</dd>
   </dl>
 </ul>
 
@@ -34,6 +38,9 @@
 <ul>
   <li>Hunter Rank Granularity.</li>
 </ul>
-
+<h3>Monster Data </h3>
+<ul>
+  <li>Monster Name Granularity.</li>
+</ul>
 <h2>3. Little Problems Finded</h2>
 <p>Some missing data and different tables sizes on wiki.</p>
