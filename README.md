@@ -5,7 +5,9 @@
 
 
 <h2>1. Business Problem (Objectives)</h2>
-  <p>Some data with information of monster hunter freedom unite game on wiki page or other websites. All information must be easily accessed by the user, you is free to select what of visual product of the data.</p>
+<hr>
+
+<p>Some data with information of monster hunter freedom unite game on wiki page or other websites. All information must be easily accessed by the user, you is free to select what of visual product of the data.</p>
  <ul>
     <li>All Quests.</li>
     <li>All Monster.</li>
@@ -13,6 +15,8 @@
 </ul>
   
 <h2>2. Solution Strategy & Assumptions</h2>
+<hr>
+
 <h3>Assumptions</h3>
 <p>The game never get new updates and easy to get data, but some of this data haved a last update on 2012, having some inconsistents.</p>
 <h3>First CRISP Cycle</h3>
@@ -38,6 +42,8 @@
 </ul>
 
 <h2>3. Data Granularity</h2>
+<hr>
+
 <h3>Item Data </h3>
 <ul>
   <li>Item Name Granularity.</li>
@@ -54,7 +60,7 @@
 <h2>4. Mix Sets Armor Building</h2>
 <hr>
 
-<p>The step of getting images with (269x400) px is very tedious xD</p>
+<p>The step of getting images with (269x400) px is very tedious because i need to open my game, print the game scene and cut img on Paint xD.</p>
 
 ![test_mix_armor](https://user-images.githubusercontent.com/75986085/165651884-9a56cb2e-b5c4-4082-a58b-26401dfbe98d.png)
 
