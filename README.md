@@ -29,6 +29,14 @@
   </dl>
 </ul>
 
+<h3>Second CRISP Cycle</h3>
+<ul>
+  <dl>
+    <dt>Mix Armors Sets.</dt>
+      <dd>Actually working on Mix Sets Armors.</dd>
+  </dl>
+</ul>
+
 <h2>3. Data Granularity</h2>
 <h3>Item Data </h3>
 <ul>
@@ -42,5 +50,13 @@
 <ul>
   <li>Monster Name Granularity.</li>
 </ul>
-<h2>3. Little Problems Finded</h2>
+
+<h2>4. Mix Sets Armor Building</h2>
+<hr>
+
+<p>The step of getting images with (269x400) px is very tedious xD</p>
+
+![test_mix_armor](https://user-images.githubusercontent.com/75986085/165651884-9a56cb2e-b5c4-4082-a58b-26401dfbe98d.png)
+
+<h2>5. Little Problems Finded</h2>
 <p>Some missing data and different tables sizes on wiki.</p>
