@@ -247,11 +247,12 @@ class MhApp( object ):
         return None
 
     def geral_window( self ):
-        layout = [[sg.Text('▃▃▃▃▃▃▃▃    ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃ \n\n◈ MHFU Database ◈\nSimples App com informações\nEssenciais para todas as caçadas!\n\n▃▃▃▃▃▃▃▃    ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃')],
-                [sg.Text(' ')],
-                [sg.Button('Quests'), sg.Button('Monstros'),
-                sg.Button('Itens'), sg.Button('Mix Sets')],
-                [sg.Text('_'*30)]]
+        layout = [[sg.Text(" ")],
+                  [sg.Text('▃▃▃▃▃▃▃▃    ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃ \n\n◈ MHFU Database ◈\nSimples App com informações\nEssenciais para todas as caçadas!\n\n▃▃▃▃▃▃▃▃    ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃')],
+                  [sg.Text(' ')],
+                  [sg.Button('Quests'), sg.Button('Monstros'),
+                  sg.Button('Itens'), sg.Button('Mix Sets')],
+                  [sg.Text('_'*30)]]
 
         window = sg.Window('MHFU - Database', layout,  element_justification='c')
 
