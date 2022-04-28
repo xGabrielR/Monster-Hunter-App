@@ -1,10 +1,10 @@
 import pandas as pd
 import PySimpleGUI as sg
+from texts import TextsList
 
 sg.theme('Black')
 
 class MhApp( object ):
-
 
     def load_data( self ):
         df_itens = pd.read_csv('data/item.csv')
@@ -158,12 +158,75 @@ class MhApp( object ):
 
         return None
 
+
+    def geral_blade_one(self, img, text):
+        geral_blade_window = [[sg.Text("∎ MHFU Mix Sets")], 
+                              [sg.Text(" ")], 
+                              [sg.Image(img, size=(269,400)), 
+                               sg.VerticalSeparator(), 
+                               sg.Text(text)]]
+
+        geral_blade = sg.Window('MHFU - Blademaster', geral_blade_window)
+
+        while True:
+            event, values = geral_blade.read()
+
+            if event == sg.WIN_CLOSED:
+                break
+            
+        return None
+
+    def mix_type_gr_blade_window( self ):
+        layout_mix_type = [[sg.Text("∎ Lista de Mix de Blademaster")], 
+                           [sg.Text(" ")], 
+                           [sg.Button('Geral Blade 1'), sg.Button('Geral Blade 2'), sg.Button('Geral Blade Guru')],
+                           [sg.Button('GS Classic'), sg.Button("GS Guru")],
+                           [sg.Button('Geral Element'), sg.Button("Geral Element Guru")],
+                           [sg.Button('Geral Earplug'), sg.Button("Geral Earplug Guru")],
+                           [sg.Text("_"*30)]]
+
+        mix_gr_blade_window = sg.Window('MHFU - Blademaster', layout_mix_type)
+
+        while True:
+            event, values = mix_gr_blade_window.read()
+
+            if event == 'Geral Blade 1':
+                self.geral_blade_one(t.blade_geral_one[0], t.blade_geral_one[1])
+
+            if event == 'Geral Blade 2':
+                self.geral_blade_one(t.blade_geral_two[0], t.blade_geral_two[1])
+
+            if event == 'Geral Blade Guru':
+                self.geral_blade_one(t.blade_geral_guru[0], t.blade_geral_guru[1])
+
+            if event == 'GS Classic':
+                self.geral_blade_one(t.gs_classic[0], t.gs_classic[1])
+
+            if event == 'GS Guru':
+                self.geral_blade_one(t.gs_guru[0], t.gs_guru[1])
+
+            if event == 'Geral Element':
+                self.geral_blade_one(t.blade_elemental_one[0], t.blade_elemental_one[1])
+
+            if event == 'Geral Element Guru':
+                self.geral_blade_one(t.blade_elemental_guru[0], t.blade_elemental_guru[1])
+
+            if event == 'Geral Earplug':
+                self.geral_blade_one(t.earplug_one[0], t.earplug_one[1])
+
+            if event == 'Geral Earplug Guru':
+                self.geral_blade_one(t.earplug_guru_one[0], t.earplug_guru_one[1])
+
+            if event == sg.WIN_CLOSED:
+                break
+            
+        return None
+
     def mix_window( self ):
-        layout_mix = [[sg.Text('∎ Selecione Rank do Set')],
-                    [sg.Text(' ')],
-                    [sg.Button('LR Mix Sets'), sg.Button(
-                        'HR Mix Sets'), sg.Button('G Mix Sets')],
-                    [sg.Text('_'*30)]]
+        layout_mix = [[sg.Text('∎ Selecione Rank & a Classe do Mix Set')],
+                      [sg.Text(' ')],
+                      [sg.Button('GR Mix Sets Gunner'), sg.Button('GR Mix Sets Blade')],
+                      [sg.Text('_'*30)]]
 
         mix_window = sg.Window('MHFU - Quest List',
                             layout_mix, element_justification='c')
@@ -171,14 +234,12 @@ class MhApp( object ):
         while True:
             event, values = mix_window.read()
 
-            if event == 'LR Mix Sets':
+            if event == 'GR Mix Sets Gunner':
                 sg.popup('cT ficou com preguiça de pegar :D')
 
-            if event == 'HR Mix Sets':
-                sg.popup('cT ficou com preguiça de pegar :D')
-
-            if event == 'G Mix Sets':
-                sg.popup('cT ficou com preguiça de pegar :D')
+            if event == 'GR Mix Sets Blade':
+                self.mix_type_gr_blade_window()
+                #sg.popup('cT ficou com preguiça de pegar :D')
 
             if event == sg.WIN_CLOSED:
                 break
@@ -215,6 +276,8 @@ class MhApp( object ):
         return None
 
 if __name__ == '__main__':
+    t = TextsList()
+
     mh = MhApp()
 
     df_itens, df_monster, df_hall_all, df_elder_key, df_hall_low, df_hall_high, df_hall_g = mh.load_data()
