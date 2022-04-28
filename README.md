@@ -21,7 +21,6 @@
 
 ![app](https://user-images.githubusercontent.com/75986085/165653432-45248937-9727-4a9a-a434-f1c19fa2aa6f.png)
 
-
 <h3>2.1. Assumptions</h3>
 <p>The game never get new updates and easy to get data, but some of this data haved a last update on 2012, having some inconsistents.</p>
 
@@ -70,7 +69,7 @@
 
 <p>The step of getting images with (269x400) px is very tedious because i need to open my game, print the game scene and cut img on Paint xD.</p>
 
-![test_mix_armor](https://user-images.githubusercontent.com/75986085/165651884-9a56cb2e-b5c4-4082-a58b-26401dfbe98d.png)
+![mhfu_mix_set_elemental](https://user-images.githubusercontent.com/75986085/165653617-2e856ab4-24d0-4a73-aa38-36affbde08a9.png)
 
 <h2>5. Little Problems Finded</h2>
 <p>Some missing data and different tables sizes on wiki.</p>
